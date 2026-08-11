@@ -1,0 +1,18 @@
+# Requirements for Step 1 – Layout Detection
+#
+# Tier 1 – ZERO NETWORK (use --backend pymupdf)
+# -----------------------------------------------
+# PyMuPDF is already installed in most environments. It's the same
+# renderer MinerU uses (pypdfium2 and PyMuPDF are both wrappers around
+# the same underlying MuPDF library family).
+#
+pymupdf>=1.24.0       # fitz – PDF rendering + native block extraction
+Pillow>=10.0.0        # image I/O and annotation drawing
+
+# Tier 2 – YOLO layout detection (auto-downloaded once, ~33 MB)
+# ---------------------------------------------------------------
+# Only needed when pages are scanned/image-only.
+# Model is downloaded from HuggingFace Hub on first use and cached locally.
+#
+ultralytics>=8.2.0    # YOLO inference
+huggingface-hub>=0.23 # hf:// model path resolution

@@ -1,0 +1,17 @@
+# Ignore other pipeline directories as requested
+reference-repo/
+pdf-extraction-pipeline/
+light_pdf_pipeline/
+
+# Standard Python ignores
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+env/
+
+# Ignore test PDF files and generated output
+*.pdf
+step1-layout-detection/pipeline_output/
+step1-layout-detection/media/
