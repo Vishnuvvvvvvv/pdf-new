@@ -1,0 +1,12 @@
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
+# Ignore massive AI model weights (GitHub max file size is 100MB)
+weights/
+
+# Ignore generated output files
+*.pdf
+!6838_THREE COLUMN CASHBOOK.pdf
+!PublicWaterMassMailing.pdf
