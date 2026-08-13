@@ -58,8 +58,17 @@ Add the `--page` argument (0-indexed) to process just the first page and output 
 uv run run_mineru_layout.py "..\6838_THREE COLUMN CASHBOOK.pdf" --weights "weights\PP-DocLayoutV2\models\Layout\PP-DocLayoutV2" --page 0
 ```
 
-### Process the Entire Document
-Omit the `--page` argument to iterate through every page and output a single `marked_layout_full_document.pdf`.
+### Generate Layout PDF Only
+If you just want to visualize the bounding boxes without generating Markdown:
 ```bash
 uv run run_mineru_layout.py "..\6838_THREE COLUMN CASHBOOK.pdf" --weights "weights\PP-DocLayoutV2\models\Layout\PP-DocLayoutV2"
 ```
+
+### Generate Full Markdown & Layout PDF (Recommended)
+This uses PyMuPDF to extract the text from the layout boxes based on their exact reading order, generating a final Markdown file alongside a layout debug PDF.
+
+```bash
+uv run extract_to_markdown.py "..\6838_THREE COLUMN CASHBOOK.pdf" --weights "weights\PP-DocLayoutV2\models\Layout\PP-DocLayoutV2"
+```
+
+*Output will be saved to `output_markdown/6838_THREE COLUMN CASHBOOK.md`.*
