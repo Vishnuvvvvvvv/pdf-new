@@ -1,0 +1,2925 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8973,
+                "bbox": [
+                    174,
+                    172,
+                    1504,
+                    391
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.933,
+                "bbox": [
+                    157,
+                    448,
+                    1582,
+                    682
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9369,
+                "bbox": [
+                    173,
+                    763,
+                    754,
+                    824
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9046,
+                "bbox": [
+                    172,
+                    829,
+                    1273,
+                    889
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7796,
+                "bbox": [
+                    181,
+                    967,
+                    957,
+                    1028
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8143,
+                "bbox": [
+                    187,
+                    1031,
+                    585,
+                    1087
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7678,
+                "bbox": [
+                    245,
+                    1115,
+                    574,
+                    1173
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8104,
+                "bbox": [
+                    300,
+                    1201,
+                    912,
+                    1258
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7804,
+                "bbox": [
+                    249,
+                    1284,
+                    571,
+                    1341
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8082,
+                "bbox": [
+                    299,
+                    1369,
+                    911,
+                    1427
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8079,
+                "bbox": [
+                    196,
+                    1452,
+                    561,
+                    1509
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7821,
+                "bbox": [
+                    246,
+                    1539,
+                    568,
+                    1597
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8044,
+                "bbox": [
+                    292,
+                    1626,
+                    910,
+                    1687
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7526,
+                "bbox": [
+                    237,
+                    1712,
+                    562,
+                    1773
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7717,
+                "bbox": [
+                    286,
+                    1802,
+                    910,
+                    1866
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7377,
+                "bbox": [
+                    226,
+                    1889,
+                    597,
+                    1952
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7445,
+                "bbox": [
+                    228,
+                    1978,
+                    560,
+                    2041
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7889,
+                "bbox": [
+                    277,
+                    2069,
+                    908,
+                    2134
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7527,
+                "bbox": [
+                    225,
+                    2157,
+                    554,
+                    2220
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    737,
+                    289,
+                    1025,
+                    392
+                ],
+                "score": 1.0,
+                "text": "Report"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    171,
+                    179,
+                    1496,
+                    282
+                ],
+                "score": 0.997,
+                "text": "Product Specifications & Lifecycle"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    490,
+                    1567,
+                    583
+                ],
+                "score": 0.655,
+                "text": "contains complex multi-lvel tables wt merged ells and oled des"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    156,
+                    611,
+                    1184,
+                    681
+                ],
+                "score": 0.977,
+                "text": "– all structures that cause Pandoc to emit HTML table tags."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    443,
+                    1566,
+                    514
+                ],
+                "score": 0.966,
+                "text": "This document is generated specifically to test the Pandoc extraction pipelise. "
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    171,
+                    761,
+                    756,
+                    826
+                ],
+                "score": 0.984,
+                "text": "1. Inline Text Formatting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    167,
+                    821,
+                    1273,
+                    890
+                ],
+                "score": 0.962,
+                "text": "Bold red text. Italic text. Underlined text. Bold + Italie + Blue."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    966,
+                    958,
+                    1030
+                ],
+                "score": 0.99,
+                "text": "2. Nested Bullet & Numbered Lists"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    1027,
+                    587,
+                    1088
+                ],
+                "score": 0.964,
+                "text": " Alpha Product Line"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    242,
+                    1111,
+                    575,
+                    1173
+                ],
+                "score": 0.967,
+                "text": " Sub-category A"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    298,
+                    1198,
+                    913,
+                    1259
+                ],
+                "score": 0.972,
+                "text": "• Detail level — specifications here"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    246,
+                    1282,
+                    572,
+                    1340
+                ],
+                "score": 0.978,
+                "text": " Sub-category B"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    297,
+                    1365,
+                    913,
+                    1429
+                ],
+                "score": 0.944,
+                "text": "• Detail level — specifications here"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1450,
+                    561,
+                    1511
+                ],
+                "score": 0.984,
+                "text": "• Beta Product Line"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    242,
+                    1535,
+                    570,
+                    1598
+                ],
+                "score": 0.973,
+                "text": "• Sub-category A"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    291,
+                    1630,
+                    909,
+                    1682
+                ],
+                "score": 0.944,
+                "text": "• Detail level — specifications here"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    235,
+                    1709,
+                    562,
+                    1774
+                ],
+                "score": 0.97,
+                "text": "• Sub-category B"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    284,
+                    1806,
+                    909,
+                    1861
+                ],
+                "score": 0.969,
+                "text": " Detail level — specifications here"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    225,
+                    1891,
+                    596,
+                    1951
+                ],
+                "score": 0.998,
+                "text": "Gamma Product Line"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    225,
+                    1975,
+                    560,
+                    2042
+                ],
+                "score": 0.984,
+                "text": " Sub-category A"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    274,
+                    2071,
+                    907,
+                    2132
+                ],
+                "score": 0.962,
+                "text": " Detail level — specifications here"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    219,
+                    2151,
+                    556,
+                    2221
+                ],
+                "score": 0.962,
+                "text": "• Sub-category B"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1653,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5856,
+                "bbox": [
+                    251,
+                    217,
+                    835,
+                    285
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9554,
+                "bbox": [
+                    150,
+                    328,
+                    483,
+                    379
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9545,
+                "bbox": [
+                    151,
+                    381,
+                    635,
+                    433
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9538,
+                "bbox": [
+                    150,
+                    429,
+                    819,
+                    485
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.952,
+                "bbox": [
+                    148,
+                    484,
+                    854,
+                    538
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.95,
+                "bbox": [
+                    147,
+                    544,
+                    596,
+                    592
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9558,
+                "bbox": [
+                    145,
+                    671,
+                    661,
+                    723
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9463,
+                "bbox": [
+                    141,
+                    728,
+                    1202,
+                    781
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9808,
+                "bbox": [
+                    129,
+                    805,
+                    1456,
+                    1100
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>Prodas (D</td><td rowspan=1 colspan=1>Namne</td><td rowspan=1 colspan=1>Categury</td><td rowspan=1 colspan=1>Price (E)</td></tr><tr><td rowspan=1 colspan=1>P-001</td><td rowspan=1 colspan=1>Funeral Plan Gold</td><td rowspan=1 colspan=1>Insurance</td><td rowspan=5 colspan=1>£4,500£3,200£1,800£299</td></tr><tr><td rowspan=1 colspan=1>P-002</td><td rowspan=1 colspan=1>Funeral Plan</td><td rowspan=1 colspan=1>Insurance</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Silver</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>P-003</td><td rowspan=1 colspan=1>Probate Service</td><td rowspan=1 colspan=1>Legal</td></tr><tr><td rowspan=1 colspan=1>P-004</td><td rowspan=1 colspan=1>Will Writing Kit</td><td rowspan=1 colspan=1>Legal</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9588,
+                "bbox": [
+                    124,
+                    1221,
+                    1293,
+                    1280
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9694,
+                "bbox": [
+                    119,
+                    1283,
+                    1391,
+                    1391
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9797,
+                "bbox": [
+                    104,
+                    1422,
+                    1443,
+                    1868
+                ],
+                "index": 12,
+                "html": "<table><tr><td rowspan=1 colspan=5>Pruutut Detalb                           Ciini Te my             Stutua</td></tr><tr><td rowspan=1 colspan=1>Code</td><td rowspan=1 colspan=1>Name</td><td rowspan=1 colspan=1>Q1 Revenue</td><td rowspan=1 colspan=1>Q2 Revenue</td><td rowspan=1 colspan=1>Lifecycle</td></tr><tr><td rowspan=1 colspan=1>P-001</td><td rowspan=1 colspan=1>Funeral Plan</td><td rowspan=1 colspan=1>£420,000</td><td rowspan=2 colspan=1>£380,000</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Gold</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>P-002</td><td rowspan=1 colspan=1>Funeral Plan</td><td rowspan=1 colspan=1>£290,000</td><td rowspan=2 colspan=1>£310,000</td><td rowspan=2 colspan=1>Anla</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Silver</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>P-003</td><td rowspan=1 colspan=1>Probate</td><td rowspan=1 colspan=1>£120,000</td><td rowspan=2 colspan=1>£145,000</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Service</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9571,
+                "bbox": [
+                    94,
+                    2007,
+                    909,
+                    2065
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9731,
+                "bbox": [
+                    88,
+                    2069,
+                    1416,
+                    2185
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    247,
+                    223,
+                    835,
+                    277
+                ],
+                "score": 0.969,
+                "text": "• Detail level — specifications here"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    333,
+                    482,
+                    374
+                ],
+                "score": 1.0,
+                "text": "Numbered Steps"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    382,
+                    635,
+                    430
+                ],
+                "score": 0.97,
+                "text": "1. Gather all input DOCX files."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    433,
+                    817,
+                    481
+                ],
+                "score": 0.985,
+                "text": "2. Run them through the Pandoc pipeline."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    485,
+                    853,
+                    535
+                ],
+                "score": 0.998,
+                "text": "3. Review the generated Markdown output."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    548,
+                    596,
+                    587
+                ],
+                "score": 0.998,
+                "text": "4. Verify with the QA team."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    671,
+                    660,
+                    720
+                ],
+                "score": 1.0,
+                "text": "3. Simple Product Table"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    729,
+                    1201,
+                    776
+                ],
+                "score": 0.993,
+                "text": "This is a standard table Pandoc should render as a GFM pipe table:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1216,
+                    1292,
+                    1280
+                ],
+                "score": 0.991,
+                "text": "4. Complex Merged-Cell Table (triggers HTML output)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    1332,
+                    1010,
+                    1389
+                ],
+                "score": 0.982,
+                "text": "standard Markdown, so it will emit HTML <table> tags."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1280,
+                    1389,
+                    1334
+                ],
+                "score": 0.98,
+                "text": "This table uses cell merging (colspan/rowspan). Pandoc cannot represent this in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    92,
+                    2004,
+                    908,
+                    2064
+                ],
+                "score": 0.999,
+                "text": "5. Table With Multi-Paragraph Cells"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    89,
+                    2069,
+                    1414,
+                    2120
+                ],
+                "score": 0.998,
+                "text": "Cells with multiple paragraphs also force Pandoc into HTML mode because GFM"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    88,
+                    2130,
+                    927,
+                    2180
+                ],
+                "score": 0.997,
+                "text": "pipe tables cannot contain newlines inside a cell."
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1653,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.94,
+                "bbox": [
+                    111,
+                    238,
+                    1584,
+                    564
+                ],
+                "index": 1,
+                "html": "<table><tr><td></td><td></td><td>Configured per router</td></tr><tr><td>Extraction Engine</td><td>Primary: Pandoc (gfm) Fallback: MarkItDown Legacy: Docling</td><td>Stored in SharePoint</td></tr><tr><td>Output Format</td><td>GitHub Flavoured Markdown (.md)</td><td></td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9516,
+                "bbox": [
+                    107,
+                    696,
+                    575,
+                    757
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9808,
+                "bbox": [
+                    262,
+                    801,
+                    1416,
+                    1034
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9498,
+                "bbox": [
+                    92,
+                    1131,
+                    1258,
+                    1192
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9567,
+                "bbox": [
+                    88,
+                    1201,
+                    1550,
+                    1317
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9824,
+                "bbox": [
+                    70,
+                    1347,
+                    1553,
+                    1678
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=3 colspan=4>Q1 Metrics</td><td rowspan=1 colspan=4>Q2 Metries</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=2 colspan=4>Apr         May        Jun         TotalQ2</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>135</td><td rowspan=1 colspan=1>142</td><td rowspan=1 colspan=1>397</td><td rowspan=1 colspan=1>150</td><td rowspan=1 colspan=1>160</td><td rowspan=1 colspan=1>175</td><td rowspan=1 colspan=1>485</td></tr><tr><td rowspan=1 colspan=1>200</td><td rowspan=1 colspan=1>210</td><td rowspan=1 colspan=1>195</td><td rowspan=1 colspan=1>605</td><td rowspan=1 colspan=1>220</td><td rowspan=1 colspan=1>230</td><td rowspan=1 colspan=1>215</td><td rowspan=1 colspan=1>665</td></tr><tr><td></td><td rowspan=2 colspan=1>90</td><td rowspan=2 colspan=1>85</td><td rowspan=2 colspan=1>255</td><td rowspan=2 colspan=1>100</td><td rowspan=2 colspan=1>110</td><td rowspan=2 colspan=1>95</td><td rowspan=2 colspan=1>305</td></tr><tr><td rowspan=1 colspan=1>80</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    106,
+                    699,
+                    575,
+                    754
+                ],
+                "score": 1.0,
+                "text": "6. Important Notes"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    259,
+                    796,
+                    1413,
+                    858
+                ],
+                "score": 0.998,
+                "text": "All documents processed by this pipeline are subject to the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    262,
+                    854,
+                    1414,
+                    916
+                ],
+                "score": 0.978,
+                "text": "3-stage lifecycle: Raw → Draft → Final. No document reaches"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    261,
+                    910,
+                    1386,
+                    979
+                ],
+                "score": 0.998,
+                "text": "downstream AI systems until it has been signed off by an"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    265,
+                    971,
+                    663,
+                    1027
+                ],
+                "score": 0.998,
+                "text": "authorised verifier."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    88,
+                    1125,
+                    1258,
+                    1192
+                ],
+                "score": 0.988,
+                "text": "7. Wide Multi-Column Data Table (forces HTML)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    85,
+                    1193,
+                    1550,
+                    1256
+                ],
+                "score": 0.992,
+                "text": "A table with 8+ narrow columns where the header row spans 2 levels also cannot"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    85,
+                    1257,
+                    995,
+                    1310
+                ],
+                "score": 0.995,
+                "text": "be expressed in GFM — Pandoc will emit HTML."
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1653,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9458,
+                "bbox": [
+                    338,
+                    198,
+                    1279,
+                    314
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8989,
+                "bbox": [
+                    110,
+                    425,
+                    485,
+                    573
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8165,
+                "bbox": [
+                    604,
+                    409,
+                    997,
+                    565
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8876,
+                "bbox": [
+                    1119,
+                    373,
+                    1544,
+                    538
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9026,
+                "bbox": [
+                    359,
+                    610,
+                    504,
+                    652
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9792,
+                "bbox": [
+                    75,
+                    679,
+                    779,
+                    959
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9419,
+                "bbox": [
+                    75,
+                    980,
+                    317,
+                    1020
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9857,
+                "bbox": [
+                    66,
+                    1042,
+                    780,
+                    1285
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9465,
+                "bbox": [
+                    64,
+                    1312,
+                    483,
+                    1356
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9869,
+                "bbox": [
+                    56,
+                    1373,
+                    778,
+                    1622
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9858,
+                "bbox": [
+                    51,
+                    1619,
+                    778,
+                    1840
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.938,
+                "bbox": [
+                    51,
+                    1866,
+                    271,
+                    1909
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.978,
+                "bbox": [
+                    45,
+                    1926,
+                    776,
+                    2080
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9736,
+                "bbox": [
+                    821,
+                    578,
+                    1559,
+                    709
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9428,
+                "bbox": [
+                    824,
+                    726,
+                    1401,
+                    778
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9858,
+                "bbox": [
+                    821,
+                    789,
+                    1553,
+                    1078
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9472,
+                "bbox": [
+                    824,
+                    1102,
+                    1304,
+                    1146
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9843,
+                "bbox": [
+                    821,
+                    1163,
+                    1542,
+                    1373
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.944,
+                "bbox": [
+                    826,
+                    1397,
+                    1190,
+                    1440
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.982,
+                "bbox": [
+                    822,
+                    1459,
+                    1531,
+                    1676
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.935,
+                "bbox": [
+                    827,
+                    1701,
+                    1037,
+                    1743
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9845,
+                "bbox": [
+                    823,
+                    1760,
+                    1526,
+                    2014
+                ],
+                "index": 22
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    331,
+                    222,
+                    1279,
+                    295
+                ],
+                "score": 1.0,
+                "text": "Word Template for Full Length Paper"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    224,
+                    426,
+                    373,
+                    465
+                ],
+                "score": 0.975,
+                "text": "1st Author"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    463,
+                    484,
+                    503
+                ],
+                "score": 0.997,
+                "text": "1st author's institute affiliation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    496,
+                    426,
+                    534
+                ],
+                "score": 1.0,
+                "text": "lephone number"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    532,
+                    416,
+                    568
+                ],
+                "score": 1.0,
+                "text": "E-mail address"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    717,
+                    416,
+                    879,
+                    445
+                ],
+                "score": 0.998,
+                "text": "2nd Author"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    680,
+                    527,
+                    895,
+                    556
+                ],
+                "score": 1.0,
+                "text": "E-mail addres"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    602,
+                    449,
+                    996,
+                    490
+                ],
+                "score": 0.984,
+                "text": "2nd author's institute affiliation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    713,
+                    486,
+                    925,
+                    521
+                ],
+                "score": 0.993,
+                "text": "lephone number"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1116,
+                    414,
+                    1542,
+                    461
+                ],
+                "score": 0.995,
+                "text": "3rd author's institute affiliation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1202,
+                    500,
+                    1320,
+                    529
+                ],
+                "score": 1.0,
+                "text": "E-mail"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    356,
+                    611,
+                    505,
+                    653
+                ],
+                "score": 0.996,
+                "text": "Abstract"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    81,
+                    679,
+                    777,
+                    718
+                ],
+                "score": 0.983,
+                "text": "The abstraer is to be in fully-justified italicized text, at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    77,
+                    714,
+                    775,
+                    753
+                ],
+                "score": 0.983,
+                "text": "the top of the left-hand column as it is here, below the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    77,
+                    748,
+                    775,
+                    786
+                ],
+                "score": 0.983,
+                "text": "author information. Use the word \"Abstract\" as the title,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    78,
+                    780,
+                    775,
+                    820
+                ],
+                "score": 0.995,
+                "text": "in 12-point Times, boldface type. centered relative to the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    77,
+                    814,
+                    776,
+                    854
+                ],
+                "score": 0.995,
+                "text": "column, initially capitalized. The abstract is to be in 10-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    76,
+                    850,
+                    775,
+                    886
+                ],
+                "score": 0.998,
+                "text": "point, single-spaced type, and may be up to 3 in. (7.62"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    76,
+                    883,
+                    776,
+                    919
+                ],
+                "score": 0.992,
+                "text": "cm) long. Leave two blank lines after the abstract, then"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    76,
+                    918,
+                    775,
+                    952
+                ],
+                "score": 0.988,
+                "text": "begin the main text. All manuscripts must be in English."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    74,
+                    978,
+                    318,
+                    1021
+                ],
+                "score": 0.997,
+                "text": "I. Introduction"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    108,
+                    1040,
+                    777,
+                    1080
+                ],
+                "score": 0.994,
+                "text": "These guidelines include complete descriptions of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    70,
+                    1070,
+                    778,
+                    1116
+                ],
+                "score": 0.994,
+                "text": "fonts. spacing, and related information for producing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    69,
+                    1111,
+                    776,
+                    1146
+                ],
+                "score": 0.999,
+                "text": "your proceedings manuscripts. Please follow them and if"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    67,
+                    1144,
+                    776,
+                    1181
+                ],
+                "score": 0.999,
+                "text": "you have any questions, direct them to the production"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    68,
+                    1178,
+                    775,
+                    1213
+                ],
+                "score": 0.989,
+                "text": "editor in charge of your proceedings at the IEEE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    68,
+                    1212,
+                    775,
+                    1246
+                ],
+                "score": 0.996,
+                "text": "Computer Society Press: Phone (714) 821-8380 or Fax"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    67,
+                    1246,
+                    275,
+                    1279
+                ],
+                "score": 0.996,
+                "text": "(714) 761-1784."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    63,
+                    1309,
+                    482,
+                    1355
+                ],
+                "score": 0.987,
+                "text": "2. Formatting Your Paper"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    62,
+                    1374,
+                    776,
+                    1410
+                ],
+                "score": 0.989,
+                "text": "All printed material, including text, illustrations, and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    60,
+                    1411,
+                    774,
+                    1442
+                ],
+                "score": 0.986,
+                "text": "charts. must be kept within a print area of 6-7/8 inches"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    59,
+                    1447,
+                    773,
+                    1477
+                ],
+                "score": 0.963,
+                "text": "(17.5 cm) wide by 8-7/8 inches (22.54 em) high. Do not"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    56,
+                    1480,
+                    774,
+                    1513
+                ],
+                "score": 0.997,
+                "text": "write or print anything outside the print area. All text"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    56,
+                    1517,
+                    773,
+                    1545
+                ],
+                "score": 0.985,
+                "text": "must be in a two-column format. Columns areto be 3-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    59,
+                    1551,
+                    773,
+                    1583
+                ],
+                "score": 0.997,
+                "text": "1/4 inches (8.25 cm) wide, with a 5/16 inch (0.8 cm)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    56,
+                    1589,
+                    322,
+                    1617
+                ],
+                "score": 1.0,
+                "text": "space between them."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    99,
+                    1620,
+                    776,
+                    1654
+                ],
+                "score": 0.998,
+                "text": "Text must be fully justified. A format sheet with the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    56,
+                    1657,
+                    773,
+                    1689
+                ],
+                "score": 0.987,
+                "text": "margins and placement guides is available in Word files"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    57,
+                    1694,
+                    771,
+                    1722
+                ],
+                "score": 0.993,
+                "text": "as <format.doc>. It contains lines and boxes showing the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    1729,
+                    773,
+                    1759
+                ],
+                "score": 0.985,
+                "text": "margins and print areas. If you hold it and your printed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1766,
+                    773,
+                    1797
+                ],
+                "score": 0.987,
+                "text": "page up to the light, you can easily check your margins to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1801,
+                    681,
+                    1832
+                ],
+                "score": 0.992,
+                "text": "see if your print area fits within the space allowed."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    49,
+                    1865,
+                    271,
+                    1908
+                ],
+                "score": 1.0,
+                "text": "3. Main Title"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    89,
+                    1931,
+                    774,
+                    1961
+                ],
+                "score": 0.979,
+                "text": "The main title (on the first page) should begin 1-3/8"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    48,
+                    1964,
+                    771,
+                    2002
+                ],
+                "score": 0.985,
+                "text": "inches (3.49 em) from the top edge of the page, centered,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    47,
+                    2000,
+                    773,
+                    2038
+                ],
+                "score": 0.981,
+                "text": "and in Times 14-point, boldface type. Capitalize the first"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    45,
+                    2037,
+                    768,
+                    2074
+                ],
+                "score": 0.992,
+                "text": "letter of nouns, pronouns, verbs, adjectives, and adverbs;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    584,
+                    1560,
+                    630
+                ],
+                "score": 0.98,
+                "text": "do not capitalize articles, coordinate conjunctions, or"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    823,
+                    623,
+                    1555,
+                    662
+                ],
+                "score": 0.994,
+                "text": "prepositions (unless the title begins with such a word)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    670,
+                    1139,
+                    701
+                ],
+                "score": 0.991,
+                "text": "Leave two blank lines afte"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    727,
+                    1400,
+                    775
+                ],
+                "score": 0.987,
+                "text": "4. Author Name(s) and Affiliation(s)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    825,
+                    1004,
+                    1545,
+                    1037
+                ],
+                "score": 0.998,
+                "text": "addresses if possible. Follow the author information by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    823,
+                    1039,
+                    1224,
+                    1071
+                ],
+                "score": 0.986,
+                "text": "two blank lines before main text."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    860,
+                    785,
+                    1555,
+                    830
+                ],
+                "score": 0.995,
+                "text": "Author names and affiliations are to be centered"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    824,
+                    827,
+                    1552,
+                    864
+                ],
+                "score": 0.989,
+                "text": "beneath the title and printed in Times 12-point, non-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    824,
+                    863,
+                    1550,
+                    898
+                ],
+                "score": 0.995,
+                "text": "boldface type. Multiple authors may be shown in a two-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    824,
+                    898,
+                    1550,
+                    933
+                ],
+                "score": 0.985,
+                "text": "or three-column format, with their affiliations below their"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    824,
+                    932,
+                    1550,
+                    969
+                ],
+                "score": 0.991,
+                "text": "respective names. Affiliations are centered below each"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    825,
+                    968,
+                    1549,
+                    1003
+                ],
+                "score": 0.991,
+                "text": "author name, italicized. not bold. Include e-mail"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    822,
+                    1097,
+                    1304,
+                    1146
+                ],
+                "score": 1.0,
+                "text": "5. Second and Following Pages"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    864,
+                    1160,
+                    1540,
+                    1203
+                ],
+                "score": 0.991,
+                "text": "The second and following pages should begin 1.0 inch"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    825,
+                    1195,
+                    1539,
+                    1238
+                ],
+                "score": 0.996,
+                "text": "(2.54 cm) from the top edge. On all pages, the bottom"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    823,
+                    1334,
+                    1034,
+                    1368
+                ],
+                "score": 0.988,
+                "text": "edge of the page."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    825,
+                    1232,
+                    1538,
+                    1268
+                ],
+                "score": 0.984,
+                "text": "margin should be 1-1/8 inches (2.86 em) from the bottom"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    824,
+                    1266,
+                    1537,
+                    1305
+                ],
+                "score": 0.991,
+                "text": "edge of the page for 8.5 x 11-inch paper; for A4 paper,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    824,
+                    1299,
+                    1536,
+                    1340
+                ],
+                "score": 0.965,
+                "text": "approximately 1-5/8 inches (4.13 cm) from the bottom"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    825,
+                    1397,
+                    1190,
+                    1439
+                ],
+                "score": 0.998,
+                "text": "6. Type-style and Fonts"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    827,
+                    1490,
+                    1530,
+                    1535
+                ],
+                "score": 0.982,
+                "text": "Times Roman may be used. If neither is available on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    824,
+                    1528,
+                    1529,
+                    1568
+                ],
+                "score": 0.989,
+                "text": "your word processor, please use the font closest in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    826,
+                    1565,
+                    1526,
+                    1598
+                ],
+                "score": 0.994,
+                "text": "appearance to Times that you have access to. Please"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    823,
+                    1598,
+                    1526,
+                    1636
+                ],
+                "score": 0.991,
+                "text": "avoid using bitmapped fonts if possible. True-Type 1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    824,
+                    1637,
+                    1061,
+                    1668
+                ],
+                "score": 0.986,
+                "text": "fonts are preferred."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    862,
+                    1458,
+                    1530,
+                    1496
+                ],
+                "score": 0.999,
+                "text": "Wherever Times is specified, Times Roman, or New"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    824,
+                    1700,
+                    1038,
+                    1742
+                ],
+                "score": 0.999,
+                "text": "7. Main Text"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    867,
+                    1764,
+                    1524,
+                    1795
+                ],
+                "score": 0.99,
+                "text": "Type your main text in 10-point Times, single-spaced."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    822,
+                    1977,
+                    984,
+                    2009
+                ],
+                "score": 0.964,
+                "text": "source code."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    825,
+                    1795,
+                    1524,
+                    1832
+                ],
+                "score": 0.985,
+                "text": "Do not use double-spacing. All paragraphs should be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    826,
+                    1830,
+                    1524,
+                    1867
+                ],
+                "score": 0.985,
+                "text": "indented 1pica (approximately 1/6- or 0.17-inch or 0.422"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    824,
+                    1864,
+                    1524,
+                    1901
+                ],
+                "score": 0.978,
+                "text": "cm). Be sure your text is fully justified—that is. flush"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    825,
+                    1900,
+                    1522,
+                    1934
+                ],
+                "score": 0.991,
+                "text": "left and flush right. Please do not place any additional"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    824,
+                    1934,
+                    1523,
+                    1971
+                ],
+                "score": 0.999,
+                "text": "blank lines between paragraphs. You can use courier for"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1653,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9501,
+                "bbox": [
+                    54,
+                    510,
+                    506,
+                    556
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9862,
+                "bbox": [
+                    51,
+                    575,
+                    770,
+                    863
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.502,
+                "bbox": [
+                    250,
+                    887,
+                    571,
+                    925
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.6108,
+                "bbox": [
+                    152,
+                    931,
+                    695,
+                    979
+                ],
+                "index": 4,
+                "html": "<table><tr><td>One Two Three</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9482,
+                "bbox": [
+                    60,
+                    1125,
+                    435,
+                    1171
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9784,
+                "bbox": [
+                    61,
+                    1186,
+                    774,
+                    1335
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.943,
+                "bbox": [
+                    64,
+                    1357,
+                    464,
+                    1401
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9734,
+                "bbox": [
+                    64,
+                    1421,
+                    772,
+                    1534
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9828,
+                "bbox": [
+                    66,
+                    1555,
+                    774,
+                    1739
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9408,
+                "bbox": [
+                    71,
+                    1758,
+                    410,
+                    1802
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9625,
+                "bbox": [
+                    71,
+                    1822,
+                    772,
+                    1897
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9393,
+                "bbox": [
+                    74,
+                    1919,
+                    302,
+                    1962
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9771,
+                "bbox": [
+                    73,
+                    1982,
+                    774,
+                    2129
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9729,
+                "bbox": [
+                    818,
+                    291,
+                    1514,
+                    422
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9714,
+                "bbox": [
+                    820,
+                    433,
+                    1512,
+                    563
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9565,
+                "bbox": [
+                    820,
+                    574,
+                    1513,
+                    643
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9728,
+                "bbox": [
+                    820,
+                    655,
+                    1512,
+                    817
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.966,
+                "bbox": [
+                    821,
+                    828,
+                    1519,
+                    928
+                ],
+                "index": 18
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    510,
+                    505,
+                    553
+                ],
+                "score": 1.0,
+                "text": "7.1. Figure and Table Captions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    579,
+                    767,
+                    618
+                ],
+                "score": 0.983,
+                "text": "Captions should be 9-point Times New Roman font."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    51,
+                    612,
+                    767,
+                    652
+                ],
+                "score": 0.993,
+                "text": "boldface. Callouts should be Times NewRoman, non-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    51,
+                    643,
+                    770,
+                    695
+                ],
+                "score": 0.938,
+                "text": "boldface. Initially capitalize only the first word of each"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    51,
+                    678,
+                    769,
+                    728
+                ],
+                "score": 0.992,
+                "text": "figure caption and table title. Figures and tables must be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    50,
+                    715,
+                    770,
+                    765
+                ],
+                "score": 0.969,
+                "text": "zumbered separately. For example: \"Figure I. Example"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    51,
+                    747,
+                    770,
+                    798
+                ],
+                "score": 0.95,
+                "text": "figure.\", \"Table I. Table example.\". Figure captions are"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    785,
+                    769,
+                    827
+                ],
+                "score": 0.993,
+                "text": "to be below the figures (see Figure 1). Table titles are to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    823,
+                    591,
+                    857
+                ],
+                "score": 0.986,
+                "text": "be centered above the tables (see Table 1."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    248,
+                    885,
+                    572,
+                    926
+                ],
+                "score": 0.999,
+                "text": "Table 1. Table example."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1123,
+                    436,
+                    1171
+                ],
+                "score": 0.998,
+                "text": "8. First-order Headings"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    97,
+                    1190,
+                    771,
+                    1224
+                ],
+                "score": 0.969,
+                "text": "For example, \"1. Introduction\", should be Times 12-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    63,
+                    1224,
+                    772,
+                    1262
+                ],
+                "score": 0.987,
+                "text": "point boldface, initially capitalized, flush lefl, with one"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    62,
+                    1257,
+                    770,
+                    1297
+                ],
+                "score": 0.993,
+                "text": "blank line before, and one blank line after. Use a period"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    62,
+                    1296,
+                    556,
+                    1328
+                ],
+                "score": 0.958,
+                "text": "(\".\") after the heading mumber, not a col"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    62,
+                    1354,
+                    464,
+                    1402
+                ],
+                "score": 1.0,
+                "text": "8.1. Second-order Headings"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    68,
+                    1422,
+                    768,
+                    1460
+                ],
+                "score": 0.972,
+                "text": "As in this heading. they should be Times 11-point"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    67,
+                    1457,
+                    764,
+                    1496
+                ],
+                "score": 0.983,
+                "text": "boldface, initially capitalized, flush left, with one blank"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    67,
+                    1494,
+                    356,
+                    1529
+                ],
+                "score": 0.993,
+                "text": "line before, and one afte"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    64,
+                    1555,
+                    772,
+                    1596
+                ],
+                "score": 0.995,
+                "text": "8.1.1. Third-order Headings. Third-order headings, as"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    68,
+                    1595,
+                    770,
+                    1629
+                ],
+                "score": 0.998,
+                "text": "in this paragraph, are discouraged. However, if you must"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    66,
+                    1627,
+                    770,
+                    1668
+                ],
+                "score": 0.968,
+                "text": "use them, use 10-point Times, boldface, initially"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    67,
+                    1656,
+                    770,
+                    1704
+                ],
+                "score": 0.962,
+                "text": "capitalized, flush left. preceded by one blank line."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    68,
+                    1694,
+                    741,
+                    1735
+                ],
+                "score": 0.997,
+                "text": "followed by a period and your text on the same line."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    70,
+                    1760,
+                    409,
+                    1799
+                ],
+                "score": 0.992,
+                "text": "9. Acknowledgements"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    108,
+                    1822,
+                    770,
+                    1868
+                ],
+                "score": 0.984,
+                "text": "This work was supported in part by a grant from the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    72,
+                    1852,
+                    424,
+                    1895
+                ],
+                "score": 0.991,
+                "text": "National Science Foundation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    73,
+                    1920,
+                    302,
+                    1959
+                ],
+                "score": 1.0,
+                "text": "10.References"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    75,
+                    1981,
+                    771,
+                    2026
+                ],
+                "score": 0.984,
+                "text": "List and number all bibliographical references in 9."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    73,
+                    2018,
+                    769,
+                    2057
+                ],
+                "score": 0.978,
+                "text": "point Times, single-spaced, at the end of your paper:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    77,
+                    2052,
+                    770,
+                    2090
+                ],
+                "score": 0.983,
+                "text": "When referenced in the text. enclose the citation number"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    74,
+                    2085,
+                    715,
+                    2122
+                ],
+                "score": 0.979,
+                "text": "in square brackets, for example [2-4]. [2, 5], and [1]"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    295,
+                    1508,
+                    327
+                ],
+                "score": 0.906,
+                "text": "[1] Briand. L. C., Daly, L, and Wost, J, \"A unified framework"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    325,
+                    1484,
+                    358
+                ],
+                "score": 0.935,
+                "text": "fow coupling measurement in ohjectoriented systems\", /FEE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    816,
+                    348,
+                    1513,
+                    396
+                ],
+                "score": 0.808,
+                "text": "Tronsactions on Sofware Engineering, 25, 1, Jamuary 1999. pp"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    387,
+                    911,
+                    417
+                ],
+                "score": 1.0,
+                "text": "91-121"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    435,
+                    1510,
+                    467
+                ],
+                "score": 0.916,
+                "text": "[2] Matetic, J. L, Collard, M L.. and Marcus, A., \"Soerce Code"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    465,
+                    1500,
+                    499
+                ],
+                "score": 0.936,
+                "text": "Files as Structured Documents\", in Proceedings 1oth JEEE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    496,
+                    1415,
+                    532
+                ],
+                "score": 0.979,
+                "text": "International Workshop on Program Comprehension"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    523,
+                    1491,
+                    562
+                ],
+                "score": 0.968,
+                "text": "(WPC02), Paris, France, June 27-29 2002, pp. 289-292."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    576,
+                    1511,
+                    608
+                ],
+                "score": 0.94,
+                "text": "[3] Marcus, A., Semaritie Driven Program Analyois, Kent State"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    609,
+                    1387,
+                    639
+                ],
+                "score": 0.982,
+                "text": "University, Kent, OH, USA, Doctoral Thesis, 2003"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    658,
+                    1508,
+                    691
+                ],
+                "score": 0.965,
+                "text": "[4] Marcus, A. and Maletic, J. L, \"Recorvering Docurnentation-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    689,
+                    1461,
+                    721
+                ],
+                "score": 0.98,
+                "text": "to-Source-Code Traceability Links using Latent Semantic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    719,
+                    1457,
+                    753
+                ],
+                "score": 0.975,
+                "text": "Indexing\", in Proceedings 25th IEEE/ACM International"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    749,
+                    1505,
+                    783
+                ],
+                "score": 0.947,
+                "text": "Conference on Sofhware Engineering (ICSE'O3), Portland, OR"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    783,
+                    1147,
+                    814
+                ],
+                "score": 0.979,
+                "text": "May 3-10 2003, pp. 125-137"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    831,
+                    1517,
+                    862
+                ],
+                "score": 0.95,
+                "text": "[5] Salton, G., Automatic Text Processing: The Transformation."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    821,
+                    862,
+                    1511,
+                    895
+                ],
+                "score": 0.975,
+                "text": "Analysis and Retrieval of Information by Computer, Addison-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    822,
+                    896,
+                    982,
+                    925
+                ],
+                "score": 0.981,
+                "text": "Wesley, 1989"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1653,
+            "height": 2339
+        }
+    }
+]

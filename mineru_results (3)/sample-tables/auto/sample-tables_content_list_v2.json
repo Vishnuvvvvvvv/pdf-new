@@ -1,0 +1,772 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Design and build accessible PDF tables Sample tables"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                142,
+                107,
+                544,
+                196
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/14fde6969167ed07a37a20a5db5a8831a540663d8059d3c1cb4b35a617e6805e.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Column header (TH)</td><td rowspan=1 colspan=1>Column header (TH)</td><td rowspan=1 colspan=1>Column header (TH)</td></tr><tr><td rowspan=1 colspan=1>Row header (TH)</td><td rowspan=1 colspan=1>Data cell (TD)</td><td rowspan=1 colspan=1>Data cell (TD)</td></tr><tr><td rowspan=1 colspan=1>Row header(TH)</td><td rowspan=1 colspan=1>Data cell (TD)</td><td rowspan=1 colspan=1>Data cell (TD)</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                253,
+                861,
+                319
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0e33decbefcd93d58a7fdd0a450ee717c8bd285a01102422f1b749a16a365925.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2: example of footnotes referenced from within a table"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "(1) Provisional total as of publication date."
+                    },
+                    {
+                        "type": "text",
+                        "content": "(2) Costs associated with on-going information programmes."
+                    },
+                    {
+                        "type": "text",
+                        "content": "(3) From the management accounts, net of recoveries, including interest charges."
+                    }
+                ],
+                "html": "<table><tr><td rowspan=1 colspan=2>Expenditure by function £ million</td><td rowspan=1 colspan=1>2009/10</td><td rowspan=1 colspan=1>2010/111</td></tr><tr><td rowspan=3 colspan=1>Policy functions</td><td rowspan=1 colspan=1>Financial</td><td rowspan=1 colspan=1>22.5</td><td rowspan=1 colspan=1>30.57</td></tr><tr><td rowspan=1 colspan=1>Information2</td><td rowspan=1 colspan=1>10.2</td><td rowspan=1 colspan=1>14.8</td></tr><tr><td rowspan=1 colspan=1>Contingency</td><td rowspan=1 colspan=1>2.6</td><td rowspan=1 colspan=1>1.2</td></tr><tr><td rowspan=4 colspan=1>Remunerated functions</td><td rowspan=1 colspan=1>Agency services3</td><td rowspan=1 colspan=1>44.7</td><td rowspan=1 colspan=1>35.91</td></tr><tr><td rowspan=1 colspan=1>Payments</td><td rowspan=1 colspan=1>22.41</td><td rowspan=1 colspan=1>19.88</td></tr><tr><td rowspan=1 colspan=1>Banking</td><td rowspan=1 colspan=1>22.90</td><td rowspan=1 colspan=1>44.23</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>12.69</td><td rowspan=1 colspan=1>10.32</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                378,
+                861,
+                594
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/88a2d9c4e05988595728a500950df927a3706e15ff9f36353859e147c7bcce16.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 3: \"film credits\" style layout"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Main character</td><td rowspan=1 colspan=1>Daniel Radcliffe</td></tr><tr><td rowspan=1 colspan=1>Sidekick 1</td><td rowspan=1 colspan=1>Rupert Grint</td></tr><tr><td rowspan=1 colspan=1>Sidekick 2</td><td rowspan=1 colspan=1>Emma Watson</td></tr><tr><td rowspan=1 colspan=1>Lovable ogre</td><td rowspan=1 colspan=1>Robbie Coltrane</td></tr><tr><td rowspan=1 colspan=1>Professor</td><td rowspan=1 colspan=1>Maggie Smith</td></tr><tr><td rowspan=1 colspan=1>Headmaster</td><td rowspan=1 colspan=1>Richard Harris</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                272,
+                713,
+                723,
+                844
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/cd62af8186663572cedbe37e0a596eb50252373d8fd1f3f5b0f14d4978a177a3.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 4: table 3 with column headers added"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Role</td><td rowspan=1 colspan=1>Actor</td></tr><tr><td rowspan=1 colspan=1>Main character</td><td rowspan=1 colspan=1>Daniel Radcliffe</td></tr><tr><td rowspan=1 colspan=1>Sidekick 1</td><td rowspan=1 colspan=1>Rupert Grint</td></tr><tr><td rowspan=1 colspan=1>Sidekick 2</td><td rowspan=1 colspan=1>Emma Watson</td></tr><tr><td rowspan=1 colspan=1>Lovable ogre</td><td rowspan=1 colspan=1>Robbie Coltrane</td></tr><tr><td rowspan=1 colspan=1>Professor</td><td rowspan=1 colspan=1>Maggie Smith</td></tr><tr><td rowspan=1 colspan=1>Headmaster</td><td rowspan=1 colspan=1>Richard Harris</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                272,
+                140,
+                723,
+                294
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1e8b7d13015f51c749ec94d8b5eff28b5575b69a0e3c386d0d959fa10b1993ba.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 5: year-end financial statement (£, thousands)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2010</td><td rowspan=1 colspan=1>2009</td><td rowspan=1 colspan=1>2008</td></tr><tr><td rowspan=1 colspan=4>Non-current assets</td></tr><tr><td rowspan=1 colspan=1>Property</td><td rowspan=1 colspan=1>345</td><td rowspan=1 colspan=1>445</td><td rowspan=1 colspan=1>222</td></tr><tr><td rowspan=1 colspan=1>Investment</td><td rowspan=1 colspan=1>567</td><td rowspan=1 colspan=1>654</td><td rowspan=1 colspan=1>423</td></tr><tr><td rowspan=1 colspan=1>Intangibles</td><td rowspan=1 colspan=1>423</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=1>453</td></tr><tr><td rowspan=1 colspan=4>Current assets</td></tr><tr><td rowspan=1 colspan=1>Trade and other receivables</td><td rowspan=1 colspan=1>435</td><td rowspan=1 colspan=1>634</td><td rowspan=1 colspan=1>231</td></tr><tr><td rowspan=1 colspan=1>Cash and cash equivalents</td><td rowspan=1 colspan=1>524</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=1>482</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>223</td><td rowspan=1 colspan=1>211</td><td rowspan=1 colspan=1>254</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                378,
+                862,
+                574
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/71b7e2ece56ea4c994eb4f9424d8e6b3f763ec172423e1b573cd8fe8b4cd30ba.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 6: a table with a more serious headings problem"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Rainfall(inches)</td><td rowspan=1 colspan=1>Americas</td><td rowspan=1 colspan=1>Asia</td><td rowspan=1 colspan=1>Europe</td><td rowspan=1 colspan=1>Africa</td></tr><tr><td rowspan=1 colspan=5>2010</td></tr><tr><td rowspan=1 colspan=1>Average</td><td rowspan=1 colspan=1>104</td><td rowspan=1 colspan=1>201</td><td rowspan=1 colspan=1>193</td><td rowspan=1 colspan=1>144</td></tr><tr><td rowspan=1 colspan=1>24 hour high</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>18</td></tr><tr><td rowspan=1 colspan=1>12 hour high</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>12</td></tr><tr><td rowspan=1 colspan=5>2009</td></tr><tr><td rowspan=1 colspan=1>Average</td><td rowspan=1 colspan=1>133</td><td rowspan=1 colspan=1>244</td><td rowspan=1 colspan=1>155</td><td rowspan=1 colspan=1>166</td></tr><tr><td rowspan=1 colspan=1>24 hour high</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>20</td></tr><tr><td rowspan=1 colspan=1>12 hour high</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>16</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                650,
+                862,
+                861
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1281c9e5dcbd05489da70cc7a2d415ec0ece3105023b51eb3e3809e734daf93c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 7: year-end statement, non-current assets (£, thousands)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Non-current assets</td><td rowspan=1 colspan=1>2010</td><td rowspan=1 colspan=1>2009</td><td rowspan=1 colspan=1>2008</td></tr><tr><td rowspan=1 colspan=1>Property</td><td rowspan=1 colspan=1>345</td><td rowspan=1 colspan=1>445</td><td rowspan=1 colspan=1>222</td></tr><tr><td rowspan=1 colspan=1>Investment</td><td rowspan=1 colspan=1>567</td><td rowspan=1 colspan=1>654</td><td rowspan=1 colspan=1>423</td></tr><tr><td rowspan=1 colspan=1>Intangibles</td><td rowspan=1 colspan=1>423</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=1>453</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                118,
+                861,
+                208
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/88dfac9625c3d0bf3b75ea4ce7893cee8fe72faee0b3e402f0a6ac990d8bcfcc.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 8: year-end statement, current assets (£, thousands)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Current assets</td><td rowspan=1 colspan=1>2010</td><td rowspan=1 colspan=1>2009</td><td rowspan=1 colspan=1>2008</td></tr><tr><td rowspan=1 colspan=1>Trade and other receivables</td><td rowspan=1 colspan=1>435</td><td rowspan=1 colspan=1>634</td><td rowspan=1 colspan=1>231</td></tr><tr><td rowspan=1 colspan=1>Cash and cash equivalents</td><td rowspan=1 colspan=1>524</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=1>482</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>223</td><td rowspan=1 colspan=1>211</td><td rowspan=1 colspan=1>254</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                267,
+                862,
+                362
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/da19382c409e404f94239232a4482bf7eb12126e5287859d09d9dafde50e4f09.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 9: rainfall by continent, 2009"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Rainfall (inches)</td><td rowspan=1 colspan=1>Americas</td><td rowspan=1 colspan=1>Asia</td><td rowspan=1 colspan=1>Europe</td><td rowspan=1 colspan=1>Africa</td></tr><tr><td rowspan=1 colspan=1>Average</td><td rowspan=1 colspan=1>133</td><td rowspan=1 colspan=1>244</td><td rowspan=1 colspan=1>155</td><td rowspan=1 colspan=1>166</td></tr><tr><td rowspan=1 colspan=1>24 hour high</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>20</td></tr><tr><td rowspan=1 colspan=1>12 hour high</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>16</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                421,
+                861,
+                508
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/fe13082b835c9f1e4cc06412992bca4c9a5f2f44176d805f6b285d2c7561edd3.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 10: self-contained year-end statement (£, thousands) (multiple layout problems)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>2011</td><td rowspan=1 colspan=2>2010 restated</td></tr><tr><td rowspan=1 colspan=1>General income</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>250,000</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>200,000</td></tr><tr><td rowspan=1 colspan=1>Increase in value, WIP</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>15,000</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>30,000</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>265,000</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>230,000</td></tr><tr><td rowspan=1 colspan=5>Administrative costs</td></tr><tr><td rowspan=1 colspan=1>Staff costs</td><td rowspan=1 colspan=1>(200,000)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(150,000)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Early departures</td><td rowspan=1 colspan=1>(10,000)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(20,000)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>(25,000)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(10,000)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Depreciation</td><td rowspan=1 colspan=1>(10,000)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(10,000)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=5>Programme costs</td></tr><tr><td rowspan=1 colspan=1>Impairment loss</td><td rowspan=1 colspan=1>(10,000)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(5,000)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>(5,000)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(5,000)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(260,000)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(200,000)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Surplus</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5,000</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>30,000</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                140,
+                862,
+                449
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c8f49a856d520f02686a473ccf8752edd38d150f7af395b45bf44b727ad7f6fa.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 11: self-contained year-end statement (£, thousands) (multiple problems resolved)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>2011</td><td rowspan=1 colspan=1>2010 restated</td></tr><tr><td rowspan=3 colspan=1>Income</td><td rowspan=1 colspan=1>General income</td><td rowspan=1 colspan=1>250,000</td><td rowspan=1 colspan=1>200,000</td></tr><tr><td rowspan=1 colspan=1>Increase in value</td><td rowspan=1 colspan=1>15,000</td><td rowspan=1 colspan=1>30,000</td></tr><tr><td rowspan=1 colspan=1>Total income</td><td rowspan=1 colspan=1>265,000</td><td rowspan=1 colspan=1>230,000</td></tr><tr><td rowspan=4 colspan=1>Administrative costs</td><td rowspan=1 colspan=1>Staff costs</td><td rowspan=1 colspan=1>(200,000)</td><td rowspan=1 colspan=1>(150,000)</td></tr><tr><td rowspan=1 colspan=1>Early departures</td><td rowspan=1 colspan=1>(10,000)</td><td rowspan=1 colspan=1>(20,000)</td></tr><tr><td rowspan=1 colspan=1>Other operating costs</td><td rowspan=1 colspan=1>(25,000)</td><td rowspan=1 colspan=1>(10,000)</td></tr><tr><td rowspan=1 colspan=1>Depreciation</td><td rowspan=1 colspan=1>(10,000)</td><td rowspan=1 colspan=1>(10,000)</td></tr><tr><td rowspan=3 colspan=1>Programme costs</td><td rowspan=1 colspan=1>Impairment loss</td><td rowspan=1 colspan=1>(10,000)</td><td rowspan=1 colspan=1>(5,000)</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>(5,000)</td><td rowspan=1 colspan=1>(5,000)</td></tr><tr><td rowspan=1 colspan=1>Total costs</td><td rowspan=1 colspan=1>(260,000)</td><td rowspan=1 colspan=1>(200,000)</td></tr><tr><td rowspan=1 colspan=2>Surplus</td><td rowspan=1 colspan=1>5,000</td><td rowspan=1 colspan=1>30,000</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                531,
+                862,
+                805
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/14bff64f8454454b4822c0fd2e88feec49c2393aa4430914e56e22aeaa2114b6.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 12: merged data cells are not recommended"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>2008</td><td rowspan=1 colspan=2>2009</td></tr><tr><td rowspan=1 colspan=1>Name</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>No</td></tr><tr><td rowspan=1 colspan=1>Bob</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>7</td></tr><tr><td rowspan=1 colspan=1>Sue</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>7</td></tr><tr><td rowspan=1 colspan=1>Sam</td><td rowspan=1 colspan=2>[data relating to both columns ina single cell spanning both]</td><td rowspan=1 colspan=2>[data relating to both columns ina single cell spanning both]</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                118,
+                861,
+                244
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4f19311c6169f664caf18b828365b9ae6932791b8eee8fdb3cec5104afc06273.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 13: use of graphic symbols"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Question</td><td rowspan=1 colspan=1>Respondent A</td><td rowspan=1 colspan=1>Respondent B</td><td rowspan=1 colspan=1>Respondent C</td></tr><tr><td rowspan=1 colspan=1>Are you a UK citizen?</td><td rowspan=1 colspan=1>冈</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>区</td></tr><tr><td rowspan=1 colspan=1>Are you currently employed?</td><td rowspan=1 colspan=1>V</td><td rowspan=1 colspan=1>冈</td><td rowspan=1 colspan=1>V</td></tr><tr><td rowspan=1 colspan=1>Do you have a driving licence?</td><td rowspan=1 colspan=1>冈</td><td rowspan=1 colspan=1>冈</td><td rowspan=1 colspan=1>V</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                304,
+                861,
+                391
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/9b62efb77d1182e1e3574d20b8a1e6cc14c23a55ca632c593488bf8ce38a4e00.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 14: symbols replaced by real text"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Question</td><td rowspan=1 colspan=1>Respondent A</td><td rowspan=1 colspan=1>Respondent B</td><td rowspan=1 colspan=1>Respondent C</td></tr><tr><td rowspan=1 colspan=1>Are you a UK citizen?</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>No</td></tr><tr><td rowspan=1 colspan=1>Are you currently employed?</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Yes</td></tr><tr><td rowspan=1 colspan=1>Do you have a driving licence?</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Yes</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                450,
+                861,
+                537
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f5eb21cba23a2b3322c956be3e4d4fee919e3cdb83e7eb81860253a9ac8cb8ab.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 15: courses offered by Institution X. A = Bachelor of Science, B = Bachelor of Arts, C = Masters, D = Doctorate, E = Diploma"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2006</td><td rowspan=1 colspan=1>2007</td><td rowspan=1 colspan=1>2008</td><td rowspan=1 colspan=1>2009</td></tr><tr><td rowspan=1 colspan=1>Economics</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A, C</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A, C</td></tr><tr><td rowspan=1 colspan=1>International relations</td><td rowspan=1 colspan=1>A, E</td><td rowspan=1 colspan=1>A, E</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A, E</td></tr><tr><td rowspan=1 colspan=1>Philosophy</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>A, D</td></tr><tr><td rowspan=1 colspan=1>Politics</td><td rowspan=1 colspan=1>A, D</td><td rowspan=1 colspan=1>A, D</td><td rowspan=1 colspan=1>A, D</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>Mathematics</td><td rowspan=1 colspan=1>B, C</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>A, E</td><td rowspan=1 colspan=1>A, B</td></tr><tr><td rowspan=1 colspan=1>English</td><td rowspan=1 colspan=1>A, C</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A,B</td><td rowspan=1 colspan=1>C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                619,
+                866,
+                782
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e7cef25e9b0568fc2f711f6052ca8f8493e881938fff448549b703bb1589c8ab.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 16: Masters courses offered by Institution X"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2006</td><td rowspan=1 colspan=1>2007</td><td rowspan=1 colspan=1>2008</td><td rowspan=1 colspan=1>2009</td></tr><tr><td rowspan=1 colspan=1>Economics</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>Yes</td></tr><tr><td rowspan=1 colspan=1>International relations</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td></tr><tr><td rowspan=1 colspan=1>Philosophy</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td></tr><tr><td rowspan=1 colspan=1>Politics</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td></tr><tr><td rowspan=1 colspan=1>Mathematics</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td></tr><tr><td rowspan=1 colspan=1>English</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>Yes</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                133,
+                866,
+                290
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/71e2fc6a9bff7f8d1ece27cfed73b3c044ebbf44ba4e17e8c3c90548499e3a14.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 17: accounts, 2011 (£, thousands)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=2>Accounting item</td><td rowspan=1 colspan=1>2011</td></tr><tr><td rowspan=3 colspan=1>Income</td><td rowspan=1 colspan=1>General income</td><td rowspan=1 colspan=1>200,000</td></tr><tr><td rowspan=1 colspan=1>Increase in value, WIP</td><td rowspan=1 colspan=1>30,000</td></tr><tr><td rowspan=1 colspan=1>Income subtotal</td><td rowspan=1 colspan=1>230,000</td></tr><tr><td rowspan=4 colspan=1>Administrative costs</td><td rowspan=1 colspan=1>Staff</td><td rowspan=1 colspan=1>150,000</td></tr><tr><td rowspan=1 colspan=1>Early departures</td><td rowspan=1 colspan=1>20,000</td></tr><tr><td rowspan=1 colspan=1>Other operating costs</td><td rowspan=1 colspan=1>10,000</td></tr><tr><td rowspan=1 colspan=1>Depreciation</td><td rowspan=1 colspan=1>10,000</td></tr><tr><td rowspan=2 colspan=1>Programme costs</td><td rowspan=1 colspan=1>Impairment loss</td><td rowspan=1 colspan=1>10,000</td></tr><tr><td rowspan=1 colspan=1>Costs subtotal</td><td rowspan=1 colspan=1>200,000</td></tr><tr><td rowspan=1 colspan=2>Balance</td><td rowspan=1 colspan=1>30,000</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                349,
+                807,
+                589
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/5419cb077be642217c6b88944b905d1f02c44283034cd2d977a5562efcb4c47a.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 18: accounts, 2011 (£, thousands)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=2>Accounting item</td><td rowspan=1 colspan=1>2011</td></tr><tr><td rowspan=3 colspan=1>Income</td><td rowspan=1 colspan=1>General income</td><td rowspan=1 colspan=1>200,000</td></tr><tr><td rowspan=1 colspan=1>Increase in value, WIP</td><td rowspan=1 colspan=1>30,000</td></tr><tr><td rowspan=1 colspan=1>Income subtotal</td><td rowspan=1 colspan=1>230,000</td></tr><tr><td rowspan=4 colspan=1>Administrative costs</td><td rowspan=1 colspan=1>Staff</td><td rowspan=1 colspan=1>(150,000)</td></tr><tr><td rowspan=1 colspan=1>Early departures</td><td rowspan=1 colspan=1>(20,000)</td></tr><tr><td rowspan=1 colspan=1>Other operating costs</td><td rowspan=1 colspan=1>(10,000)</td></tr><tr><td rowspan=1 colspan=1>Depreciation</td><td rowspan=1 colspan=1>(10,000)</td></tr><tr><td rowspan=2 colspan=1>Programme costs</td><td rowspan=1 colspan=1>Impairment loss</td><td rowspan=1 colspan=1>(10,000)</td></tr><tr><td rowspan=1 colspan=1>Costs subtotal</td><td rowspan=1 colspan=1>(200,000)</td></tr><tr><td rowspan=1 colspan=2>Balance</td><td rowspan=1 colspan=1>30,000</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                648,
+                807,
+                901
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1a6f37cf1564001fa05c121a9145007e1dfcfccaa18ea259a275bf86dfc835f5.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 19: Human Development Index (HDI) trends, 1980 to 2010. Source: Barro-Lee March, 2010"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Country</td><td rowspan=1 colspan=1>1980</td><td rowspan=1 colspan=1>1990</td><td rowspan=1 colspan=1>2000</td><td rowspan=1 colspan=1>2010</td></tr><tr><td rowspan=1 colspan=1>Afghanistan</td><td rowspan=1 colspan=1>0.78</td><td rowspan=1 colspan=1>1.48</td><td rowspan=1 colspan=1>2.16</td><td rowspan=1 colspan=1>3.33</td></tr><tr><td rowspan=1 colspan=1>Albania</td><td rowspan=1 colspan=1>8.89</td><td rowspan=1 colspan=1>9.67</td><td rowspan=1 colspan=1>9.89</td><td rowspan=1 colspan=1>10.38</td></tr><tr><td rowspan=1 colspan=1>Algeria</td><td rowspan=1 colspan=1>4.74</td><td rowspan=1 colspan=1>3.33</td><td rowspan=1 colspan=1>5.50</td><td rowspan=1 colspan=1>7.24</td></tr><tr><td rowspan=1 colspan=1>Andorra</td><td rowspan=1 colspan=1>4.98</td><td rowspan=1 colspan=1>5.63</td><td rowspan=1 colspan=1>9.09</td><td rowspan=1 colspan=1>10.35</td></tr><tr><td rowspan=1 colspan=1>Angola</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>4.42</td><td rowspan=1 colspan=1>4.42</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                140,
+                702,
+                323
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e60142eab92ee6c08cac7ba30b8d8987eaf1734ce9fba01217b51a12f606079f.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 20: footnotes referenced from within a table"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "(1) Provisional total as of publication date."
+                    },
+                    {
+                        "type": "text",
+                        "content": "(2) Costs associated with on-going information programmes."
+                    },
+                    {
+                        "type": "text",
+                        "content": "(3) From the management accounts, net of recoveries and including interest charges"
+                    }
+                ],
+                "html": "<table><tr><td rowspan=1 colspan=2>Expenditure by function Emillion</td><td rowspan=1 colspan=1>2009/10</td><td rowspan=1 colspan=1>2010/11</td></tr><tr><td rowspan=3 colspan=1>Policy functions</td><td rowspan=1 colspan=1>Financial</td><td rowspan=1 colspan=1>22.5</td><td rowspan=1 colspan=1>30.57</td></tr><tr><td rowspan=1 colspan=1>Information2</td><td rowspan=1 colspan=1>10.2</td><td rowspan=1 colspan=1>14.8</td></tr><tr><td rowspan=1 colspan=1>Contingency</td><td rowspan=1 colspan=1>2.6</td><td rowspan=1 colspan=1>1.2</td></tr><tr><td rowspan=4 colspan=1>Remunerated functions</td><td rowspan=1 colspan=1>Agency services3</td><td rowspan=1 colspan=1>44.7</td><td rowspan=1 colspan=1>35.91</td></tr><tr><td rowspan=1 colspan=1>Payments</td><td rowspan=1 colspan=1>22.41</td><td rowspan=1 colspan=1>19.88</td></tr><tr><td rowspan=1 colspan=1>Banking</td><td rowspan=1 colspan=1>22.90</td><td rowspan=1 colspan=1>44.23</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>12.69</td><td rowspan=1 colspan=1>10.32</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                381,
+                861,
+                597
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ba6115be808d3ca2eb91c688f1824ef625ee096c248d8da5648ae089b14bffcd.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 21: footnotes replaced by additional table summary text"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=2>Expenditure by function Emillion</td><td rowspan=1 colspan=1>2009/10</td><td rowspan=1 colspan=1>2010/11</td></tr><tr><td rowspan=3 colspan=1>Policy functions</td><td rowspan=1 colspan=1>Financial</td><td rowspan=1 colspan=1>22.5</td><td rowspan=1 colspan=1>30.57</td></tr><tr><td rowspan=1 colspan=1>Information</td><td rowspan=1 colspan=1>10.2</td><td rowspan=1 colspan=1>14.8</td></tr><tr><td rowspan=1 colspan=1>Contingency</td><td rowspan=1 colspan=1>2.6</td><td rowspan=1 colspan=1>1.2</td></tr><tr><td rowspan=4 colspan=1>Remunerated functions</td><td rowspan=1 colspan=1>Agency services</td><td rowspan=1 colspan=1>44.7</td><td rowspan=1 colspan=1>35.91</td></tr><tr><td rowspan=1 colspan=1>Payments</td><td rowspan=1 colspan=1>22.41</td><td rowspan=1 colspan=1>19.88</td></tr><tr><td rowspan=1 colspan=1>Banking</td><td rowspan=1 colspan=1>22.90</td><td rowspan=1 colspan=1>44.23</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>12.69</td><td rowspan=1 colspan=1>10.32</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                118,
+                861,
+                334
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0f5f8fa2a43e3af7bebfbe7224bb695acf8b36732321dbe3cc3cf59921a7b9fd.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 22: referencing multiple endnotes from within a table"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Expenditure £m</td><td rowspan=1 colspan=1>Notes(Notes located on page [n1)</td><td rowspan=1 colspan=1>2010</td><td rowspan=1 colspan=1>2011</td></tr><tr><td rowspan=1 colspan=1>Information</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>10.2</td><td rowspan=1 colspan=1>14.8</td></tr><tr><td rowspan=1 colspan=1>Contingency</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2.6</td><td rowspan=1 colspan=1>1.2</td></tr><tr><td rowspan=1 colspan=1>Payments</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>22.41</td><td rowspan=1 colspan=1>19.88</td></tr><tr><td rowspan=1 colspan=1>Banking services</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>22.90</td><td rowspan=1 colspan=1>44.23</td></tr><tr><td rowspan=1 colspan=1>Interest</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0.23</td><td rowspan=1 colspan=1>0.10</td></tr><tr><td rowspan=1 colspan=1>Dividends</td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>2.5</td><td rowspan=1 colspan=1>3.68</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>12.69</td><td rowspan=1 colspan=1>10.32</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                133,
+                393,
+                862,
+                617
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ad4f28a19849836a05c9d0bdcaa5eeba4c9cc83a6a43957bbd9f6112924c290a.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 23: simulated table created using tabs and containing no structure"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>2008</td><td rowspan=1 colspan=2>2009</td></tr><tr><td rowspan=1 colspan=1>Name</td><td rowspan=1 colspan=1>Entered</td><td rowspan=1 colspan=1>Completed</td><td rowspan=1 colspan=1>Entered</td><td rowspan=1 colspan=1>Completed</td></tr><tr><td rowspan=1 colspan=1>Bob</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>19</td></tr><tr><td rowspan=1 colspan=1>Sue</td><td rowspan=1 colspan=1>44</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>10</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                698,
+                861,
+                800
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/57689cf0a267896101258c5167272d0fad717d3ed3d8c220708c63cad3b1a2dc.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 24: year-end financial statement "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\pmb { \\varepsilon } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "thousands)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2010</td><td rowspan=1 colspan=1>2009</td><td rowspan=1 colspan=1>2008</td></tr><tr><td rowspan=1 colspan=4>Non-current assets</td></tr><tr><td rowspan=1 colspan=1>Buildings</td><td rowspan=1 colspan=1>345</td><td rowspan=1 colspan=1>445</td><td rowspan=1 colspan=1>222</td></tr><tr><td rowspan=1 colspan=1>Investment</td><td rowspan=1 colspan=1>567</td><td rowspan=1 colspan=1>654</td><td rowspan=1 colspan=1>423</td></tr><tr><td rowspan=1 colspan=1>Intangibles</td><td rowspan=1 colspan=1>423</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=1>453</td></tr><tr><td rowspan=1 colspan=4>Current assets</td></tr><tr><td rowspan=1 colspan=1>Trade</td><td rowspan=1 colspan=1>435</td><td rowspan=1 colspan=1>634</td><td rowspan=1 colspan=1>231</td></tr><tr><td rowspan=1 colspan=1>Cash</td><td rowspan=1 colspan=1>524</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=1>482</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>223</td><td rowspan=1 colspan=1>211</td><td rowspan=1 colspan=1>254</td></tr><tr><td rowspan=1 colspan=4>Current liabilities</td></tr><tr><td rowspan=1 colspan=1>Trade liabilities</td><td rowspan=1 colspan=1>154</td><td rowspan=1 colspan=1>125</td><td rowspan=1 colspan=1>421</td></tr><tr><td rowspan=1 colspan=1>Financial debt</td><td rowspan=1 colspan=1>231</td><td rowspan=1 colspan=1>474</td><td rowspan=1 colspan=1>572</td></tr><tr><td rowspan=1 colspan=1>Provisions</td><td rowspan=1 colspan=1>111</td><td rowspan=1 colspan=1>312</td><td rowspan=1 colspan=1>347</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                133,
+                117,
+                862,
+                401
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/98a41309238058a5defbc42bc307516ffca22edb0f0122ea147d505b164ec26a.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 25: setting column and row scope via the tags panel"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>2008</td><td rowspan=1 colspan=2>2009</td></tr><tr><td rowspan=1 colspan=1>Name</td><td rowspan=1 colspan=1>Entered</td><td rowspan=1 colspan=1>Won</td><td rowspan=1 colspan=1>Entered</td><td rowspan=1 colspan=1>Won</td></tr><tr><td rowspan=1 colspan=1>Bob</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>19</td></tr><tr><td rowspan=1 colspan=1>Sue</td><td rowspan=1 colspan=1>44</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>10</td></tr><tr><td rowspan=1 colspan=1>Sam</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1>30</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                459,
+                861,
+                584
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/2a9d323102eb066f67e3cd429fa69d0cf30c60b2d7bd9587ab1f38c771a69d7c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 26: courses offered by Institution X. A = Bachelor of Science, B = Bachelor of Arts, C = Masters, D = Doctorate, E = Diploma"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2006</td><td rowspan=1 colspan=1>2007</td><td rowspan=1 colspan=1>2008</td><td rowspan=1 colspan=1>2009</td></tr><tr><td rowspan=1 colspan=1>Economics</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A, C</td><td rowspan=1 colspan=1>A, C</td><td rowspan=1 colspan=1>A, C</td></tr><tr><td rowspan=1 colspan=1>International relations</td><td rowspan=1 colspan=1>A, E</td><td rowspan=1 colspan=1>A, E</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A, B</td></tr><tr><td rowspan=1 colspan=1>Philosophy</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>Politics</td><td rowspan=1 colspan=1>A, D</td><td rowspan=1 colspan=1>A, D</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>Mathematics</td><td rowspan=1 colspan=1>B, C</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A, B</td></tr><tr><td rowspan=1 colspan=1>English</td><td rowspan=1 colspan=1>A, C</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A,B</td><td rowspan=1 colspan=1>A, C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                665,
+                820,
+                819
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/899a4099a5c8ca3654f910a8453aeb4223c4b81d7fe2719b7559df0c0d068c45.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 27: “table” with columns simulated by using tab stops"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Name</td><td rowspan=1 colspan=1>Apples</td><td rowspan=1 colspan=1>Pears</td></tr><tr><td rowspan=1 colspan=1>Bob Scott</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>25</td></tr><tr><td rowspan=1 colspan=1>Susan. P. Arnold-Jones, BA, FRSA, MD</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>15</td></tr><tr><td rowspan=1 colspan=1>Sam Holder-Dickinson</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>10</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                118,
+                862,
+                205
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0d62f8052287a27ff18c6c500c1495663c51707f4e03b1039ccee3f057208895.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 28: year-end financial table (£, thousands) – headings problem revisited"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2010</td><td rowspan=1 colspan=1>2009</td><td rowspan=1 colspan=1>2008</td></tr><tr><td rowspan=1 colspan=4>Non-current assets</td></tr><tr><td rowspan=1 colspan=1>Buildings</td><td rowspan=1 colspan=1>345</td><td rowspan=1 colspan=1>445</td><td rowspan=1 colspan=1>222</td></tr><tr><td rowspan=1 colspan=1>Investment</td><td rowspan=1 colspan=1>567</td><td rowspan=1 colspan=1>654</td><td rowspan=1 colspan=1>423</td></tr><tr><td rowspan=1 colspan=1>Intangibles</td><td rowspan=1 colspan=1>423</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=1>453</td></tr><tr><td rowspan=1 colspan=4>Current assets</td></tr><tr><td rowspan=1 colspan=1>Trade</td><td rowspan=1 colspan=1>435</td><td rowspan=1 colspan=1>634</td><td rowspan=1 colspan=1>231</td></tr><tr><td rowspan=1 colspan=1>Cash</td><td rowspan=1 colspan=1>524</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=1>482</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>223</td><td rowspan=1 colspan=1>211</td><td rowspan=1 colspan=1>254</td></tr><tr><td rowspan=1 colspan=4>Current liabilities</td></tr><tr><td rowspan=1 colspan=1>Trade liabilities</td><td rowspan=1 colspan=1>154</td><td rowspan=1 colspan=1>125</td><td rowspan=1 colspan=1>421</td></tr><tr><td rowspan=1 colspan=1>Financial debt</td><td rowspan=1 colspan=1>231</td><td rowspan=1 colspan=1>474</td><td rowspan=1 colspan=1>572</td></tr><tr><td rowspan=1 colspan=1>Provisions</td><td rowspan=1 colspan=1>111</td><td rowspan=1 colspan=1>312</td><td rowspan=1 colspan=1>347</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                133,
+                287,
+                862,
+                571
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/138dd47c7b908d4d5b00f7c203ca3af9aaee43e68b1aa9dd221f5035bc831c85.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 29: multiple headers attributes for each data cell"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>South America</td><td rowspan=1 colspan=1>Asia</td><td rowspan=1 colspan=1>Africa</td><td rowspan=1 colspan=1>Australia</td></tr><tr><td rowspan=1 colspan=5>2010</td></tr><tr><td rowspan=1 colspan=1>Highest average</td><td rowspan=1 colspan=1>523.6</td><td rowspan=1 colspan=1>467.4</td><td rowspan=1 colspan=1>405.0</td><td rowspan=1 colspan=1>340.5</td></tr><tr><td rowspan=1 colspan=1>Highest in 24 hours</td><td rowspan=1 colspan=1>73.1</td><td rowspan=1 colspan=1>54.1</td><td rowspan=1 colspan=1>27.2</td><td rowspan=1 colspan=1>66.3</td></tr><tr><td rowspan=1 colspan=1>Highest in 12 hours</td><td rowspan=1 colspan=1>42.4</td><td rowspan=1 colspan=1>30.1</td><td rowspan=1 colspan=1>15.9</td><td rowspan=1 colspan=1>40.3</td></tr><tr><td rowspan=1 colspan=5>2009</td></tr><tr><td rowspan=1 colspan=1>Highest average</td><td rowspan=1 colspan=1>487.7</td><td rowspan=1 colspan=1>453.6</td><td rowspan=1 colspan=1>398.7</td><td rowspan=1 colspan=1>356</td></tr><tr><td rowspan=1 colspan=1>Highest in 24 hours</td><td rowspan=1 colspan=1>67.2</td><td rowspan=1 colspan=1>53.2</td><td rowspan=1 colspan=1>44.3</td><td rowspan=1 colspan=1>53.8</td></tr><tr><td rowspan=1 colspan=1>Highest in 12 hours</td><td rowspan=1 colspan=1>34.7</td><td rowspan=1 colspan=1>34.1</td><td rowspan=1 colspan=1>29.8</td><td rowspan=1 colspan=1>31.0</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4>2008</td></tr><tr><td rowspan=1 colspan=1>Highest average</td><td rowspan=1 colspan=1>496.7</td><td rowspan=1 colspan=1>444.3</td><td rowspan=1 colspan=1>502.1</td><td rowspan=1 colspan=1>399.6</td></tr><tr><td rowspan=1 colspan=1>Highest in 24 hours</td><td rowspan=1 colspan=1>44.2</td><td rowspan=1 colspan=1>56.7</td><td rowspan=1 colspan=1>32.1</td><td rowspan=1 colspan=1>63.2</td></tr><tr><td rowspan=1 colspan=1>Highest in 12 hours</td><td rowspan=1 colspan=1>30.1</td><td rowspan=1 colspan=1>32.7</td><td rowspan=1 colspan=1>21.9</td><td rowspan=1 colspan=1>40.2</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                118,
+                862,
+                414
+            ]
+        }
+    ]
+]

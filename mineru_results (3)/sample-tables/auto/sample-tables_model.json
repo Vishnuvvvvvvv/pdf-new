@@ -1,0 +1,1429 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9133,
+                "bbox": [
+                    242,
+                    238,
+                    925,
+                    434
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9115,
+                "bbox": [
+                    242,
+                    506,
+                    380,
+                    544
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9845,
+                "bbox": [
+                    232,
+                    560,
+                    1466,
+                    705
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>Column header (TH)</td><td rowspan=1 colspan=1>Column header (TH)</td><td rowspan=1 colspan=1>Column header (TH)</td></tr><tr><td rowspan=1 colspan=1>Row header (TH)</td><td rowspan=1 colspan=1>Data cell (TD)</td><td rowspan=1 colspan=1>Data cell (TD)</td></tr><tr><td rowspan=1 colspan=1>Row header(TH)</td><td rowspan=1 colspan=1>Data cell (TD)</td><td rowspan=1 colspan=1>Data cell (TD)</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9459,
+                "bbox": [
+                    242,
+                    784,
+                    1304,
+                    823
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9896,
+                "bbox": [
+                    232,
+                    835,
+                    1466,
+                    1310
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=2>Expenditure by function £ million</td><td rowspan=1 colspan=1>2009/10</td><td rowspan=1 colspan=1>2010/111</td></tr><tr><td rowspan=3 colspan=1>Policy functions</td><td rowspan=1 colspan=1>Financial</td><td rowspan=1 colspan=1>22.5</td><td rowspan=1 colspan=1>30.57</td></tr><tr><td rowspan=1 colspan=1>Information2</td><td rowspan=1 colspan=1>10.2</td><td rowspan=1 colspan=1>14.8</td></tr><tr><td rowspan=1 colspan=1>Contingency</td><td rowspan=1 colspan=1>2.6</td><td rowspan=1 colspan=1>1.2</td></tr><tr><td rowspan=4 colspan=1>Remunerated functions</td><td rowspan=1 colspan=1>Agency services3</td><td rowspan=1 colspan=1>44.7</td><td rowspan=1 colspan=1>35.91</td></tr><tr><td rowspan=1 colspan=1>Payments</td><td rowspan=1 colspan=1>22.41</td><td rowspan=1 colspan=1>19.88</td></tr><tr><td rowspan=1 colspan=1>Banking</td><td rowspan=1 colspan=1>22.90</td><td rowspan=1 colspan=1>44.23</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>12.69</td><td rowspan=1 colspan=1>10.32</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9403,
+                "bbox": [
+                    244,
+                    1341,
+                    850,
+                    1377
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9424,
+                "bbox": [
+                    245,
+                    1377,
+                    1107,
+                    1412
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9421,
+                "bbox": [
+                    245,
+                    1410,
+                    1401,
+                    1447
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9474,
+                "bbox": [
+                    549,
+                    1519,
+                    1150,
+                    1558
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9889,
+                "bbox": [
+                    466,
+                    1572,
+                    1233,
+                    1859
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=1 colspan=1>Main character</td><td rowspan=1 colspan=1>Daniel Radcliffe</td></tr><tr><td rowspan=1 colspan=1>Sidekick 1</td><td rowspan=1 colspan=1>Rupert Grint</td></tr><tr><td rowspan=1 colspan=1>Sidekick 2</td><td rowspan=1 colspan=1>Emma Watson</td></tr><tr><td rowspan=1 colspan=1>Lovable ogre</td><td rowspan=1 colspan=1>Robbie Coltrane</td></tr><tr><td rowspan=1 colspan=1>Professor</td><td rowspan=1 colspan=1>Maggie Smith</td></tr><tr><td rowspan=1 colspan=1>Headmaster</td><td rowspan=1 colspan=1>Richard Harris</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    250,
+                    240,
+                    773,
+                    300
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    247,
+                    308,
+                    920,
+                    364
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    247,
+                    379,
+                    603,
+                    432
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    245,
+                    505,
+                    378,
+                    547
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    250,
+                    787,
+                    1297,
+                    820
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    250,
+                    1346,
+                    843,
+                    1375
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    1379,
+                    1102,
+                    1412
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    1410,
+                    1397,
+                    1446
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    555,
+                    1519,
+                    1145,
+                    1557
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9473,
+                "bbox": [
+                    466,
+                    259,
+                    1231,
+                    300
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9882,
+                "bbox": [
+                    466,
+                    311,
+                    1232,
+                    648
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1>Role</td><td rowspan=1 colspan=1>Actor</td></tr><tr><td rowspan=1 colspan=1>Main character</td><td rowspan=1 colspan=1>Daniel Radcliffe</td></tr><tr><td rowspan=1 colspan=1>Sidekick 1</td><td rowspan=1 colspan=1>Rupert Grint</td></tr><tr><td rowspan=1 colspan=1>Sidekick 2</td><td rowspan=1 colspan=1>Emma Watson</td></tr><tr><td rowspan=1 colspan=1>Lovable ogre</td><td rowspan=1 colspan=1>Robbie Coltrane</td></tr><tr><td rowspan=1 colspan=1>Professor</td><td rowspan=1 colspan=1>Maggie Smith</td></tr><tr><td rowspan=1 colspan=1>Headmaster</td><td rowspan=1 colspan=1>Richard Harris</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9484,
+                "bbox": [
+                    242,
+                    785,
+                    1163,
+                    827
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9896,
+                "bbox": [
+                    231,
+                    836,
+                    1467,
+                    1266
+                ],
+                "index": 4,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2010</td><td rowspan=1 colspan=1>2009</td><td rowspan=1 colspan=1>2008</td></tr><tr><td rowspan=1 colspan=4>Non-current assets</td></tr><tr><td rowspan=1 colspan=1>Property</td><td rowspan=1 colspan=1>345</td><td rowspan=1 colspan=1>445</td><td rowspan=1 colspan=1>222</td></tr><tr><td rowspan=1 colspan=1>Investment</td><td rowspan=1 colspan=1>567</td><td rowspan=1 colspan=1>654</td><td rowspan=1 colspan=1>423</td></tr><tr><td rowspan=1 colspan=1>Intangibles</td><td rowspan=1 colspan=1>423</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=1>453</td></tr><tr><td rowspan=1 colspan=4>Current assets</td></tr><tr><td rowspan=1 colspan=1>Trade and other receivables</td><td rowspan=1 colspan=1>435</td><td rowspan=1 colspan=1>634</td><td rowspan=1 colspan=1>231</td></tr><tr><td rowspan=1 colspan=1>Cash and cash equivalents</td><td rowspan=1 colspan=1>524</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=1>482</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>223</td><td rowspan=1 colspan=1>211</td><td rowspan=1 colspan=1>254</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9463,
+                "bbox": [
+                    241,
+                    1382,
+                    1191,
+                    1422
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9902,
+                "bbox": [
+                    231,
+                    1433,
+                    1467,
+                    1896
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>Rainfall(inches)</td><td rowspan=1 colspan=1>Americas</td><td rowspan=1 colspan=1>Asia</td><td rowspan=1 colspan=1>Europe</td><td rowspan=1 colspan=1>Africa</td></tr><tr><td rowspan=1 colspan=5>2010</td></tr><tr><td rowspan=1 colspan=1>Average</td><td rowspan=1 colspan=1>104</td><td rowspan=1 colspan=1>201</td><td rowspan=1 colspan=1>193</td><td rowspan=1 colspan=1>144</td></tr><tr><td rowspan=1 colspan=1>24 hour high</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>18</td></tr><tr><td rowspan=1 colspan=1>12 hour high</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>12</td></tr><tr><td rowspan=1 colspan=5>2009</td></tr><tr><td rowspan=1 colspan=1>Average</td><td rowspan=1 colspan=1>133</td><td rowspan=1 colspan=1>244</td><td rowspan=1 colspan=1>155</td><td rowspan=1 colspan=1>166</td></tr><tr><td rowspan=1 colspan=1>24 hour high</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>20</td></tr><tr><td rowspan=1 colspan=1>12 hour high</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>16</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    473,
+                    263,
+                    1225,
+                    296
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    789,
+                    1157,
+                    823
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    1386,
+                    1184,
+                    1418
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9476,
+                "bbox": [
+                    242,
+                    210,
+                    1352,
+                    250
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9871,
+                "bbox": [
+                    232,
+                    262,
+                    1466,
+                    460
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1>Non-current assets</td><td rowspan=1 colspan=1>2010</td><td rowspan=1 colspan=1>2009</td><td rowspan=1 colspan=1>2008</td></tr><tr><td rowspan=1 colspan=1>Property</td><td rowspan=1 colspan=1>345</td><td rowspan=1 colspan=1>445</td><td rowspan=1 colspan=1>222</td></tr><tr><td rowspan=1 colspan=1>Investment</td><td rowspan=1 colspan=1>567</td><td rowspan=1 colspan=1>654</td><td rowspan=1 colspan=1>423</td></tr><tr><td rowspan=1 colspan=1>Intangibles</td><td rowspan=1 colspan=1>423</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=1>453</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9456,
+                "bbox": [
+                    242,
+                    539,
+                    1272,
+                    579
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9877,
+                "bbox": [
+                    232,
+                    590,
+                    1467,
+                    799
+                ],
+                "index": 4,
+                "html": "<table><tr><td rowspan=1 colspan=1>Current assets</td><td rowspan=1 colspan=1>2010</td><td rowspan=1 colspan=1>2009</td><td rowspan=1 colspan=1>2008</td></tr><tr><td rowspan=1 colspan=1>Trade and other receivables</td><td rowspan=1 colspan=1>435</td><td rowspan=1 colspan=1>634</td><td rowspan=1 colspan=1>231</td></tr><tr><td rowspan=1 colspan=1>Cash and cash equivalents</td><td rowspan=1 colspan=1>524</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=1>482</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>223</td><td rowspan=1 colspan=1>211</td><td rowspan=1 colspan=1>254</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9449,
+                "bbox": [
+                    242,
+                    876,
+                    858,
+                    915
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9874,
+                "bbox": [
+                    231,
+                    928,
+                    1466,
+                    1121
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>Rainfall (inches)</td><td rowspan=1 colspan=1>Americas</td><td rowspan=1 colspan=1>Asia</td><td rowspan=1 colspan=1>Europe</td><td rowspan=1 colspan=1>Africa</td></tr><tr><td rowspan=1 colspan=1>Average</td><td rowspan=1 colspan=1>133</td><td rowspan=1 colspan=1>244</td><td rowspan=1 colspan=1>155</td><td rowspan=1 colspan=1>166</td></tr><tr><td rowspan=1 colspan=1>24 hour high</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>20</td></tr><tr><td rowspan=1 colspan=1>12 hour high</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>16</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    246,
+                    210,
+                    1348,
+                    250
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    543,
+                    1267,
+                    575
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    250,
+                    879,
+                    851,
+                    912
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9657,
+                "bbox": [
+                    241,
+                    209,
+                    1454,
+                    302
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9898,
+                "bbox": [
+                    231,
+                    311,
+                    1467,
+                    991
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>2011</td><td rowspan=1 colspan=2>2010 restated</td></tr><tr><td rowspan=1 colspan=1>General income</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>250,000</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>200,000</td></tr><tr><td rowspan=1 colspan=1>Increase in value, WIP</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>15,000</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>30,000</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>265,000</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>230,000</td></tr><tr><td rowspan=1 colspan=5>Administrative costs</td></tr><tr><td rowspan=1 colspan=1>Staff costs</td><td rowspan=1 colspan=1>(200,000)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(150,000)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Early departures</td><td rowspan=1 colspan=1>(10,000)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(20,000)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>(25,000)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(10,000)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Depreciation</td><td rowspan=1 colspan=1>(10,000)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(10,000)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=5>Programme costs</td></tr><tr><td rowspan=1 colspan=1>Impairment loss</td><td rowspan=1 colspan=1>(10,000)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(5,000)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>(5,000)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(5,000)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(260,000)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(200,000)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Surplus</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5,000</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>30,000</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9641,
+                "bbox": [
+                    241,
+                    1067,
+                    1454,
+                    1161
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9897,
+                "bbox": [
+                    232,
+                    1170,
+                    1467,
+                    1774
+                ],
+                "index": 4,
+                "html": "<table><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>2011</td><td rowspan=1 colspan=1>2010 restated</td></tr><tr><td rowspan=3 colspan=1>Income</td><td rowspan=1 colspan=1>General income</td><td rowspan=1 colspan=1>250,000</td><td rowspan=1 colspan=1>200,000</td></tr><tr><td rowspan=1 colspan=1>Increase in value</td><td rowspan=1 colspan=1>15,000</td><td rowspan=1 colspan=1>30,000</td></tr><tr><td rowspan=1 colspan=1>Total income</td><td rowspan=1 colspan=1>265,000</td><td rowspan=1 colspan=1>230,000</td></tr><tr><td rowspan=4 colspan=1>Administrative costs</td><td rowspan=1 colspan=1>Staff costs</td><td rowspan=1 colspan=1>(200,000)</td><td rowspan=1 colspan=1>(150,000)</td></tr><tr><td rowspan=1 colspan=1>Early departures</td><td rowspan=1 colspan=1>(10,000)</td><td rowspan=1 colspan=1>(20,000)</td></tr><tr><td rowspan=1 colspan=1>Other operating costs</td><td rowspan=1 colspan=1>(25,000)</td><td rowspan=1 colspan=1>(10,000)</td></tr><tr><td rowspan=1 colspan=1>Depreciation</td><td rowspan=1 colspan=1>(10,000)</td><td rowspan=1 colspan=1>(10,000)</td></tr><tr><td rowspan=3 colspan=1>Programme costs</td><td rowspan=1 colspan=1>Impairment loss</td><td rowspan=1 colspan=1>(10,000)</td><td rowspan=1 colspan=1>(5,000)</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>(5,000)</td><td rowspan=1 colspan=1>(5,000)</td></tr><tr><td rowspan=1 colspan=1>Total costs</td><td rowspan=1 colspan=1>(260,000)</td><td rowspan=1 colspan=1>(200,000)</td></tr><tr><td rowspan=1 colspan=2>Surplus</td><td rowspan=1 colspan=1>5,000</td><td rowspan=1 colspan=1>30,000</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    246,
+                    210,
+                    1448,
+                    248
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    250,
+                    265,
+                    541,
+                    296
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    247,
+                    1070,
+                    1448,
+                    1108
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    247,
+                    1120,
+                    581,
+                    1158
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.95,
+                "bbox": [
+                    242,
+                    210,
+                    1119,
+                    248
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9891,
+                "bbox": [
+                    231,
+                    262,
+                    1466,
+                    539
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>2008</td><td rowspan=1 colspan=2>2009</td></tr><tr><td rowspan=1 colspan=1>Name</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>No</td></tr><tr><td rowspan=1 colspan=1>Bob</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>7</td></tr><tr><td rowspan=1 colspan=1>Sue</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>7</td></tr><tr><td rowspan=1 colspan=1>Sam</td><td rowspan=1 colspan=2>[data relating to both columns ina single cell spanning both]</td><td rowspan=1 colspan=2>[data relating to both columns ina single cell spanning both]</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.951,
+                "bbox": [
+                    242,
+                    617,
+                    821,
+                    657
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9867,
+                "bbox": [
+                    231,
+                    671,
+                    1466,
+                    862
+                ],
+                "index": 4,
+                "html": "<table><tr><td rowspan=1 colspan=1>Question</td><td rowspan=1 colspan=1>Respondent A</td><td rowspan=1 colspan=1>Respondent B</td><td rowspan=1 colspan=1>Respondent C</td></tr><tr><td rowspan=1 colspan=1>Are you a UK citizen?</td><td rowspan=1 colspan=1>冈</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>区</td></tr><tr><td rowspan=1 colspan=1>Are you currently employed?</td><td rowspan=1 colspan=1>V</td><td rowspan=1 colspan=1>冈</td><td rowspan=1 colspan=1>V</td></tr><tr><td rowspan=1 colspan=1>Do you have a driving licence?</td><td rowspan=1 colspan=1>冈</td><td rowspan=1 colspan=1>冈</td><td rowspan=1 colspan=1>V</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9451,
+                "bbox": [
+                    242,
+                    941,
+                    933,
+                    980
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9873,
+                "bbox": [
+                    231,
+                    993,
+                    1465,
+                    1186
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>Question</td><td rowspan=1 colspan=1>Respondent A</td><td rowspan=1 colspan=1>Respondent B</td><td rowspan=1 colspan=1>Respondent C</td></tr><tr><td rowspan=1 colspan=1>Are you a UK citizen?</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>No</td></tr><tr><td rowspan=1 colspan=1>Are you currently employed?</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Yes</td></tr><tr><td rowspan=1 colspan=1>Do you have a driving licence?</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Yes</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9599,
+                "bbox": [
+                    241,
+                    1263,
+                    1410,
+                    1354
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9894,
+                "bbox": [
+                    231,
+                    1365,
+                    1473,
+                    1723
+                ],
+                "index": 8,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2006</td><td rowspan=1 colspan=1>2007</td><td rowspan=1 colspan=1>2008</td><td rowspan=1 colspan=1>2009</td></tr><tr><td rowspan=1 colspan=1>Economics</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A, C</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A, C</td></tr><tr><td rowspan=1 colspan=1>International relations</td><td rowspan=1 colspan=1>A, E</td><td rowspan=1 colspan=1>A, E</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A, E</td></tr><tr><td rowspan=1 colspan=1>Philosophy</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>A, D</td></tr><tr><td rowspan=1 colspan=1>Politics</td><td rowspan=1 colspan=1>A, D</td><td rowspan=1 colspan=1>A, D</td><td rowspan=1 colspan=1>A, D</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>Mathematics</td><td rowspan=1 colspan=1>B, C</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>A, E</td><td rowspan=1 colspan=1>A, B</td></tr><tr><td rowspan=1 colspan=1>English</td><td rowspan=1 colspan=1>A, C</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A,B</td><td rowspan=1 colspan=1>C</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    214,
+                    1112,
+                    246
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    248,
+                    617,
+                    815,
+                    656
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    943,
+                    928,
+                    979
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    247,
+                    1265,
+                    1404,
+                    1303
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    247,
+                    1314,
+                    1317,
+                    1352
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9483,
+                "bbox": [
+                    242,
+                    243,
+                    1129,
+                    281
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9892,
+                "bbox": [
+                    231,
+                    295,
+                    1473,
+                    641
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2006</td><td rowspan=1 colspan=1>2007</td><td rowspan=1 colspan=1>2008</td><td rowspan=1 colspan=1>2009</td></tr><tr><td rowspan=1 colspan=1>Economics</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>Yes</td></tr><tr><td rowspan=1 colspan=1>International relations</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td></tr><tr><td rowspan=1 colspan=1>Philosophy</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td></tr><tr><td rowspan=1 colspan=1>Politics</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td></tr><tr><td rowspan=1 colspan=1>Mathematics</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>No</td></tr><tr><td rowspan=1 colspan=1>English</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>Yes</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9465,
+                "bbox": [
+                    242,
+                    719,
+                    950,
+                    759
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9903,
+                "bbox": [
+                    231,
+                    772,
+                    1374,
+                    1299
+                ],
+                "index": 4,
+                "html": "<table><tr><td rowspan=1 colspan=2>Accounting item</td><td rowspan=1 colspan=1>2011</td></tr><tr><td rowspan=3 colspan=1>Income</td><td rowspan=1 colspan=1>General income</td><td rowspan=1 colspan=1>200,000</td></tr><tr><td rowspan=1 colspan=1>Increase in value, WIP</td><td rowspan=1 colspan=1>30,000</td></tr><tr><td rowspan=1 colspan=1>Income subtotal</td><td rowspan=1 colspan=1>230,000</td></tr><tr><td rowspan=4 colspan=1>Administrative costs</td><td rowspan=1 colspan=1>Staff</td><td rowspan=1 colspan=1>150,000</td></tr><tr><td rowspan=1 colspan=1>Early departures</td><td rowspan=1 colspan=1>20,000</td></tr><tr><td rowspan=1 colspan=1>Other operating costs</td><td rowspan=1 colspan=1>10,000</td></tr><tr><td rowspan=1 colspan=1>Depreciation</td><td rowspan=1 colspan=1>10,000</td></tr><tr><td rowspan=2 colspan=1>Programme costs</td><td rowspan=1 colspan=1>Impairment loss</td><td rowspan=1 colspan=1>10,000</td></tr><tr><td rowspan=1 colspan=1>Costs subtotal</td><td rowspan=1 colspan=1>200,000</td></tr><tr><td rowspan=1 colspan=2>Balance</td><td rowspan=1 colspan=1>30,000</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9459,
+                "bbox": [
+                    243,
+                    1377,
+                    949,
+                    1417
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9903,
+                "bbox": [
+                    231,
+                    1429,
+                    1374,
+                    1985
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=2>Accounting item</td><td rowspan=1 colspan=1>2011</td></tr><tr><td rowspan=3 colspan=1>Income</td><td rowspan=1 colspan=1>General income</td><td rowspan=1 colspan=1>200,000</td></tr><tr><td rowspan=1 colspan=1>Increase in value, WIP</td><td rowspan=1 colspan=1>30,000</td></tr><tr><td rowspan=1 colspan=1>Income subtotal</td><td rowspan=1 colspan=1>230,000</td></tr><tr><td rowspan=4 colspan=1>Administrative costs</td><td rowspan=1 colspan=1>Staff</td><td rowspan=1 colspan=1>(150,000)</td></tr><tr><td rowspan=1 colspan=1>Early departures</td><td rowspan=1 colspan=1>(20,000)</td></tr><tr><td rowspan=1 colspan=1>Other operating costs</td><td rowspan=1 colspan=1>(10,000)</td></tr><tr><td rowspan=1 colspan=1>Depreciation</td><td rowspan=1 colspan=1>(10,000)</td></tr><tr><td rowspan=2 colspan=1>Programme costs</td><td rowspan=1 colspan=1>Impairment loss</td><td rowspan=1 colspan=1>(10,000)</td></tr><tr><td rowspan=1 colspan=1>Costs subtotal</td><td rowspan=1 colspan=1>(200,000)</td></tr><tr><td rowspan=1 colspan=2>Balance</td><td rowspan=1 colspan=1>30,000</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    250,
+                    247,
+                    1122,
+                    279
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    721,
+                    944,
+                    758
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    248,
+                    1379,
+                    945,
+                    1416
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9045,
+                "bbox": [
+                    239,
+                    209,
+                    1174,
+                    301
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9877,
+                "bbox": [
+                    231,
+                    311,
+                    1197,
+                    712
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1>Country</td><td rowspan=1 colspan=1>1980</td><td rowspan=1 colspan=1>1990</td><td rowspan=1 colspan=1>2000</td><td rowspan=1 colspan=1>2010</td></tr><tr><td rowspan=1 colspan=1>Afghanistan</td><td rowspan=1 colspan=1>0.78</td><td rowspan=1 colspan=1>1.48</td><td rowspan=1 colspan=1>2.16</td><td rowspan=1 colspan=1>3.33</td></tr><tr><td rowspan=1 colspan=1>Albania</td><td rowspan=1 colspan=1>8.89</td><td rowspan=1 colspan=1>9.67</td><td rowspan=1 colspan=1>9.89</td><td rowspan=1 colspan=1>10.38</td></tr><tr><td rowspan=1 colspan=1>Algeria</td><td rowspan=1 colspan=1>4.74</td><td rowspan=1 colspan=1>3.33</td><td rowspan=1 colspan=1>5.50</td><td rowspan=1 colspan=1>7.24</td></tr><tr><td rowspan=1 colspan=1>Andorra</td><td rowspan=1 colspan=1>4.98</td><td rowspan=1 colspan=1>5.63</td><td rowspan=1 colspan=1>9.09</td><td rowspan=1 colspan=1>10.35</td></tr><tr><td rowspan=1 colspan=1>Angola</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>4.42</td><td rowspan=1 colspan=1>4.42</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9459,
+                "bbox": [
+                    241,
+                    790,
+                    1125,
+                    829
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9891,
+                "bbox": [
+                    231,
+                    841,
+                    1465,
+                    1315
+                ],
+                "index": 4,
+                "html": "<table><tr><td rowspan=1 colspan=2>Expenditure by function Emillion</td><td rowspan=1 colspan=1>2009/10</td><td rowspan=1 colspan=1>2010/11</td></tr><tr><td rowspan=3 colspan=1>Policy functions</td><td rowspan=1 colspan=1>Financial</td><td rowspan=1 colspan=1>22.5</td><td rowspan=1 colspan=1>30.57</td></tr><tr><td rowspan=1 colspan=1>Information2</td><td rowspan=1 colspan=1>10.2</td><td rowspan=1 colspan=1>14.8</td></tr><tr><td rowspan=1 colspan=1>Contingency</td><td rowspan=1 colspan=1>2.6</td><td rowspan=1 colspan=1>1.2</td></tr><tr><td rowspan=4 colspan=1>Remunerated functions</td><td rowspan=1 colspan=1>Agency services3</td><td rowspan=1 colspan=1>44.7</td><td rowspan=1 colspan=1>35.91</td></tr><tr><td rowspan=1 colspan=1>Payments</td><td rowspan=1 colspan=1>22.41</td><td rowspan=1 colspan=1>19.88</td></tr><tr><td rowspan=1 colspan=1>Banking</td><td rowspan=1 colspan=1>22.90</td><td rowspan=1 colspan=1>44.23</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>12.69</td><td rowspan=1 colspan=1>10.32</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9153,
+                "bbox": [
+                    243,
+                    1347,
+                    851,
+                    1383
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9003,
+                "bbox": [
+                    243,
+                    1382,
+                    1108,
+                    1418
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8977,
+                "bbox": [
+                    243,
+                    1415,
+                    1446,
+                    1453
+                ],
+                "index": 7
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    248,
+                    215,
+                    999,
+                    249
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    248,
+                    265,
+                    1166,
+                    299
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    793,
+                    1119,
+                    826
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    1351,
+                    843,
+                    1381
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    250,
+                    1385,
+                    1101,
+                    1416
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    1414,
+                    1442,
+                    1451
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9485,
+                "bbox": [
+                    241,
+                    210,
+                    1330,
+                    250
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9895,
+                "bbox": [
+                    232,
+                    262,
+                    1466,
+                    737
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=2>Expenditure by function Emillion</td><td rowspan=1 colspan=1>2009/10</td><td rowspan=1 colspan=1>2010/11</td></tr><tr><td rowspan=3 colspan=1>Policy functions</td><td rowspan=1 colspan=1>Financial</td><td rowspan=1 colspan=1>22.5</td><td rowspan=1 colspan=1>30.57</td></tr><tr><td rowspan=1 colspan=1>Information</td><td rowspan=1 colspan=1>10.2</td><td rowspan=1 colspan=1>14.8</td></tr><tr><td rowspan=1 colspan=1>Contingency</td><td rowspan=1 colspan=1>2.6</td><td rowspan=1 colspan=1>1.2</td></tr><tr><td rowspan=4 colspan=1>Remunerated functions</td><td rowspan=1 colspan=1>Agency services</td><td rowspan=1 colspan=1>44.7</td><td rowspan=1 colspan=1>35.91</td></tr><tr><td rowspan=1 colspan=1>Payments</td><td rowspan=1 colspan=1>22.41</td><td rowspan=1 colspan=1>19.88</td></tr><tr><td rowspan=1 colspan=1>Banking</td><td rowspan=1 colspan=1>22.90</td><td rowspan=1 colspan=1>44.23</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>12.69</td><td rowspan=1 colspan=1>10.32</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9495,
+                "bbox": [
+                    241,
+                    815,
+                    1283,
+                    854
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9899,
+                "bbox": [
+                    230,
+                    867,
+                    1467,
+                    1360
+                ],
+                "index": 4,
+                "html": "<table><tr><td rowspan=1 colspan=1>Expenditure £m</td><td rowspan=1 colspan=1>Notes(Notes located on page [n1)</td><td rowspan=1 colspan=1>2010</td><td rowspan=1 colspan=1>2011</td></tr><tr><td rowspan=1 colspan=1>Information</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>10.2</td><td rowspan=1 colspan=1>14.8</td></tr><tr><td rowspan=1 colspan=1>Contingency</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2.6</td><td rowspan=1 colspan=1>1.2</td></tr><tr><td rowspan=1 colspan=1>Payments</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>22.41</td><td rowspan=1 colspan=1>19.88</td></tr><tr><td rowspan=1 colspan=1>Banking services</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>22.90</td><td rowspan=1 colspan=1>44.23</td></tr><tr><td rowspan=1 colspan=1>Interest</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0.23</td><td rowspan=1 colspan=1>0.10</td></tr><tr><td rowspan=1 colspan=1>Dividends</td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>2.5</td><td rowspan=1 colspan=1>3.68</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>12.69</td><td rowspan=1 colspan=1>10.32</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9574,
+                "bbox": [
+                    239,
+                    1437,
+                    1338,
+                    1527
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9876,
+                "bbox": [
+                    231,
+                    1538,
+                    1466,
+                    1763
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>2008</td><td rowspan=1 colspan=2>2009</td></tr><tr><td rowspan=1 colspan=1>Name</td><td rowspan=1 colspan=1>Entered</td><td rowspan=1 colspan=1>Completed</td><td rowspan=1 colspan=1>Entered</td><td rowspan=1 colspan=1>Completed</td></tr><tr><td rowspan=1 colspan=1>Bob</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>19</td></tr><tr><td rowspan=1 colspan=1>Sue</td><td rowspan=1 colspan=1>44</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>10</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    214,
+                    1323,
+                    246
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    818,
+                    1276,
+                    851
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    247,
+                    1439,
+                    1333,
+                    1477
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    248,
+                    1491,
+                    409,
+                    1527
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9503,
+                "bbox": [
+                    242,
+                    210,
+                    1185,
+                    250
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5407,
+                "bbox": [
+                    925,
+                    212,
+                    978,
+                    250
+                ],
+                "index": 2,
+                "latex": "( \\pmb { \\varepsilon } ,"
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9896,
+                "bbox": [
+                    230,
+                    261,
+                    1467,
+                    884
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2010</td><td rowspan=1 colspan=1>2009</td><td rowspan=1 colspan=1>2008</td></tr><tr><td rowspan=1 colspan=4>Non-current assets</td></tr><tr><td rowspan=1 colspan=1>Buildings</td><td rowspan=1 colspan=1>345</td><td rowspan=1 colspan=1>445</td><td rowspan=1 colspan=1>222</td></tr><tr><td rowspan=1 colspan=1>Investment</td><td rowspan=1 colspan=1>567</td><td rowspan=1 colspan=1>654</td><td rowspan=1 colspan=1>423</td></tr><tr><td rowspan=1 colspan=1>Intangibles</td><td rowspan=1 colspan=1>423</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=1>453</td></tr><tr><td rowspan=1 colspan=4>Current assets</td></tr><tr><td rowspan=1 colspan=1>Trade</td><td rowspan=1 colspan=1>435</td><td rowspan=1 colspan=1>634</td><td rowspan=1 colspan=1>231</td></tr><tr><td rowspan=1 colspan=1>Cash</td><td rowspan=1 colspan=1>524</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=1>482</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>223</td><td rowspan=1 colspan=1>211</td><td rowspan=1 colspan=1>254</td></tr><tr><td rowspan=1 colspan=4>Current liabilities</td></tr><tr><td rowspan=1 colspan=1>Trade liabilities</td><td rowspan=1 colspan=1>154</td><td rowspan=1 colspan=1>125</td><td rowspan=1 colspan=1>421</td></tr><tr><td rowspan=1 colspan=1>Financial debt</td><td rowspan=1 colspan=1>231</td><td rowspan=1 colspan=1>474</td><td rowspan=1 colspan=1>572</td></tr><tr><td rowspan=1 colspan=1>Provisions</td><td rowspan=1 colspan=1>111</td><td rowspan=1 colspan=1>312</td><td rowspan=1 colspan=1>347</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9477,
+                "bbox": [
+                    242,
+                    962,
+                    1258,
+                    1003
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9882,
+                "bbox": [
+                    231,
+                    1012,
+                    1466,
+                    1288
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>2008</td><td rowspan=1 colspan=2>2009</td></tr><tr><td rowspan=1 colspan=1>Name</td><td rowspan=1 colspan=1>Entered</td><td rowspan=1 colspan=1>Won</td><td rowspan=1 colspan=1>Entered</td><td rowspan=1 colspan=1>Won</td></tr><tr><td rowspan=1 colspan=1>Bob</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>19</td></tr><tr><td rowspan=1 colspan=1>Sue</td><td rowspan=1 colspan=1>44</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>10</td></tr><tr><td rowspan=1 colspan=1>Sam</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1>30</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9626,
+                "bbox": [
+                    240,
+                    1365,
+                    1409,
+                    1456
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9894,
+                "bbox": [
+                    231,
+                    1466,
+                    1395,
+                    1804
+                ],
+                "index": 7,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2006</td><td rowspan=1 colspan=1>2007</td><td rowspan=1 colspan=1>2008</td><td rowspan=1 colspan=1>2009</td></tr><tr><td rowspan=1 colspan=1>Economics</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A, C</td><td rowspan=1 colspan=1>A, C</td><td rowspan=1 colspan=1>A, C</td></tr><tr><td rowspan=1 colspan=1>International relations</td><td rowspan=1 colspan=1>A, E</td><td rowspan=1 colspan=1>A, E</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A, B</td></tr><tr><td rowspan=1 colspan=1>Philosophy</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>Politics</td><td rowspan=1 colspan=1>A, D</td><td rowspan=1 colspan=1>A, D</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>Mathematics</td><td rowspan=1 colspan=1>B, C</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A, B</td></tr><tr><td rowspan=1 colspan=1>English</td><td rowspan=1 colspan=1>A, C</td><td rowspan=1 colspan=1>A, B</td><td rowspan=1 colspan=1>A,B</td><td rowspan=1 colspan=1>A, C</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    247,
+                    211,
+                    924,
+                    248
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    979,
+                    211,
+                    1179,
+                    248
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    966,
+                    1251,
+                    999
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    247,
+                    1367,
+                    1405,
+                    1405
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    246,
+                    1416,
+                    1316,
+                    1454
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9491,
+                "bbox": [
+                    242,
+                    209,
+                    1293,
+                    250
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9857,
+                "bbox": [
+                    232,
+                    263,
+                    1467,
+                    455
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1>Name</td><td rowspan=1 colspan=1>Apples</td><td rowspan=1 colspan=1>Pears</td></tr><tr><td rowspan=1 colspan=1>Bob Scott</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>25</td></tr><tr><td rowspan=1 colspan=1>Susan. P. Arnold-Jones, BA, FRSA, MD</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>15</td></tr><tr><td rowspan=1 colspan=1>Sam Holder-Dickinson</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>10</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9601,
+                "bbox": [
+                    240,
+                    533,
+                    1448,
+                    621
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9901,
+                "bbox": [
+                    230,
+                    634,
+                    1467,
+                    1260
+                ],
+                "index": 4,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2010</td><td rowspan=1 colspan=1>2009</td><td rowspan=1 colspan=1>2008</td></tr><tr><td rowspan=1 colspan=4>Non-current assets</td></tr><tr><td rowspan=1 colspan=1>Buildings</td><td rowspan=1 colspan=1>345</td><td rowspan=1 colspan=1>445</td><td rowspan=1 colspan=1>222</td></tr><tr><td rowspan=1 colspan=1>Investment</td><td rowspan=1 colspan=1>567</td><td rowspan=1 colspan=1>654</td><td rowspan=1 colspan=1>423</td></tr><tr><td rowspan=1 colspan=1>Intangibles</td><td rowspan=1 colspan=1>423</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=1>453</td></tr><tr><td rowspan=1 colspan=4>Current assets</td></tr><tr><td rowspan=1 colspan=1>Trade</td><td rowspan=1 colspan=1>435</td><td rowspan=1 colspan=1>634</td><td rowspan=1 colspan=1>231</td></tr><tr><td rowspan=1 colspan=1>Cash</td><td rowspan=1 colspan=1>524</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=1>482</td></tr><tr><td rowspan=1 colspan=1>Other</td><td rowspan=1 colspan=1>223</td><td rowspan=1 colspan=1>211</td><td rowspan=1 colspan=1>254</td></tr><tr><td rowspan=1 colspan=4>Current liabilities</td></tr><tr><td rowspan=1 colspan=1>Trade liabilities</td><td rowspan=1 colspan=1>154</td><td rowspan=1 colspan=1>125</td><td rowspan=1 colspan=1>421</td></tr><tr><td rowspan=1 colspan=1>Financial debt</td><td rowspan=1 colspan=1>231</td><td rowspan=1 colspan=1>474</td><td rowspan=1 colspan=1>572</td></tr><tr><td rowspan=1 colspan=1>Provisions</td><td rowspan=1 colspan=1>111</td><td rowspan=1 colspan=1>312</td><td rowspan=1 colspan=1>347</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    247,
+                    211,
+                    1287,
+                    247
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    246,
+                    533,
+                    1442,
+                    574
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    587,
+                    398,
+                    618
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9403,
+                "bbox": [
+                    242,
+                    210,
+                    1202,
+                    248
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9886,
+                "bbox": [
+                    231,
+                    262,
+                    1467,
+                    913
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>South America</td><td rowspan=1 colspan=1>Asia</td><td rowspan=1 colspan=1>Africa</td><td rowspan=1 colspan=1>Australia</td></tr><tr><td rowspan=1 colspan=5>2010</td></tr><tr><td rowspan=1 colspan=1>Highest average</td><td rowspan=1 colspan=1>523.6</td><td rowspan=1 colspan=1>467.4</td><td rowspan=1 colspan=1>405.0</td><td rowspan=1 colspan=1>340.5</td></tr><tr><td rowspan=1 colspan=1>Highest in 24 hours</td><td rowspan=1 colspan=1>73.1</td><td rowspan=1 colspan=1>54.1</td><td rowspan=1 colspan=1>27.2</td><td rowspan=1 colspan=1>66.3</td></tr><tr><td rowspan=1 colspan=1>Highest in 12 hours</td><td rowspan=1 colspan=1>42.4</td><td rowspan=1 colspan=1>30.1</td><td rowspan=1 colspan=1>15.9</td><td rowspan=1 colspan=1>40.3</td></tr><tr><td rowspan=1 colspan=5>2009</td></tr><tr><td rowspan=1 colspan=1>Highest average</td><td rowspan=1 colspan=1>487.7</td><td rowspan=1 colspan=1>453.6</td><td rowspan=1 colspan=1>398.7</td><td rowspan=1 colspan=1>356</td></tr><tr><td rowspan=1 colspan=1>Highest in 24 hours</td><td rowspan=1 colspan=1>67.2</td><td rowspan=1 colspan=1>53.2</td><td rowspan=1 colspan=1>44.3</td><td rowspan=1 colspan=1>53.8</td></tr><tr><td rowspan=1 colspan=1>Highest in 12 hours</td><td rowspan=1 colspan=1>34.7</td><td rowspan=1 colspan=1>34.1</td><td rowspan=1 colspan=1>29.8</td><td rowspan=1 colspan=1>31.0</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4>2008</td></tr><tr><td rowspan=1 colspan=1>Highest average</td><td rowspan=1 colspan=1>496.7</td><td rowspan=1 colspan=1>444.3</td><td rowspan=1 colspan=1>502.1</td><td rowspan=1 colspan=1>399.6</td></tr><tr><td rowspan=1 colspan=1>Highest in 24 hours</td><td rowspan=1 colspan=1>44.2</td><td rowspan=1 colspan=1>56.7</td><td rowspan=1 colspan=1>32.1</td><td rowspan=1 colspan=1>63.2</td></tr><tr><td rowspan=1 colspan=1>Highest in 12 hours</td><td rowspan=1 colspan=1>30.1</td><td rowspan=1 colspan=1>32.7</td><td rowspan=1 colspan=1>21.9</td><td rowspan=1 colspan=1>40.2</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    213,
+                    1195,
+                    245
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1700,
+            "height": 2200
+        }
+    }
+]
