@@ -1,0 +1,2680 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Product Specifications & Lifecycle Report"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                104,
+                72,
+                909,
+                166
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This document is generated apecifically to test the Pandoc extraction pipelise.  contains complex multi-lvel tables wt merged ells and oleddes – all structures that cause Pandoc to emit HTML table tags."
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                191,
+                956,
+                290
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Inline Text Formatting"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                104,
+                325,
+                455,
+                351
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Bold red text. Italic text. Underlined text. Bold + Italie + Blue."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                353,
+                769,
+                380
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Nested Bullet & Numbered Lists"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                109,
+                413,
+                578,
+                439
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Alpha Product Line"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                440,
+                352,
+                464
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Sub-category A"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                476,
+                346,
+                501
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Detail level — specifications here"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                513,
+                551,
+                536
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Sub-category B"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                548,
+                344,
+                572
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Detail level — specifications here"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                584,
+                549,
+                609
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Beta Product Line"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                619,
+                337,
+                644
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Sub-category A"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                657,
+                342,
+                681
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Detail level— specifications here"
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                694,
+                549,
+                720
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Sub-category B"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                731,
+                339,
+                757
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Detail level — specifications here"
+                    }
+                ]
+            },
+            "bbox": [
+                171,
+                769,
+                549,
+                796
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Gamma Product Line"
+                    }
+                ]
+            },
+            "bbox": [
+                136,
+                807,
+                359,
+                833
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Sub-category A"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                845,
+                337,
+                871
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Detail level — specifications here"
+                    }
+                ]
+            },
+            "bbox": [
+                166,
+                883,
+                547,
+                912
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Sub-category B"
+                    }
+                ]
+            },
+            "bbox": [
+                136,
+                921,
+                334,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "• Detail level— specifications here"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                151,
+                92,
+                504,
+                121
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Numbered Steps"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                140,
+                290,
+                161
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Gather all input DOCX files."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                162,
+                383,
+                184
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Run them through the Pandoc pipeline."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                182,
+                494,
+                206
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Review the generated Markdown output."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                206,
+                515,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Verify with the QA team."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                231,
+                359,
+                252
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Simple Product Table"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                87,
+                286,
+                398,
+                308
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This is a standard table Pandoc should render as a GFM pipe table:"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                311,
+                726,
+                333
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a6beb4eb0d218910927d9d2c3be1f8827c688e64aa7a861049ee35657f5ee67d.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Prodas (D</td><td rowspan=1 colspan=1>Namne</td><td rowspan=1 colspan=1>Categury</td><td rowspan=1 colspan=1>Price (E)</td></tr><tr><td rowspan=1 colspan=1>P-001</td><td rowspan=1 colspan=1>Funeral Plan Gold</td><td rowspan=1 colspan=1>Insurance</td><td rowspan=5 colspan=1>£4,500£3,200£1,800£299</td></tr><tr><td rowspan=1 colspan=1>P-002</td><td rowspan=1 colspan=1>Funeral Plan</td><td rowspan=1 colspan=1>Insurance</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Silver</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>P-003</td><td rowspan=1 colspan=1>Probate Service</td><td rowspan=1 colspan=1>Legal</td></tr><tr><td rowspan=1 colspan=1>P-004</td><td rowspan=1 colspan=1>Will Writing Kit</td><td rowspan=1 colspan=1>Legal</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                77,
+                343,
+                880,
+                470
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Complex Merged-Cell Table (triggers HTML output)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                73,
+                521,
+                781,
+                546
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This table uses cell merging (colspan/rowspan). Pandoc cannot represent this in standard Markdown, so it will emit HTML <table> tags."
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                547,
+                840,
+                593
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/02cc7eccfc9de9f593a6431967c4316dfb0ea798524abbe178ff28a244739c5f.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=5>Pruutut Detalb                           Ciini Te my             Stutua</td></tr><tr><td rowspan=1 colspan=1>Code</td><td rowspan=1 colspan=1>Name</td><td rowspan=1 colspan=1>Q1 Revenue</td><td rowspan=1 colspan=1>Q2 Revenue</td><td rowspan=1 colspan=1>Lifecycle</td></tr><tr><td rowspan=1 colspan=1>P-001</td><td rowspan=1 colspan=1>Funeral Plan</td><td rowspan=1 colspan=1>£420,000</td><td rowspan=2 colspan=1>£380,000</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Gold</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>P-002</td><td rowspan=1 colspan=1>Funeral Plan</td><td rowspan=1 colspan=1>£290,000</td><td rowspan=2 colspan=1>£310,000</td><td rowspan=2 colspan=1>Anla</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Silver</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>P-003</td><td rowspan=1 colspan=1>Probate</td><td rowspan=1 colspan=1>£120,000</td><td rowspan=2 colspan=1>£145,000</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Service</td><td rowspan=1 colspan=1></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                62,
+                606,
+                872,
+                798
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Table With Multi-Paragraph Cells"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                55,
+                857,
+                549,
+                882
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Cells with multiple paragraphs also force Pandoc into HTML mode because GFM pipe tables cannot contain newlines inside a cell."
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                883,
+                855,
+                933
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/38a27b8124079ada98582d5ce20c35cd5ee5e93ba542e2de2f57aa87f302c690.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td></td><td>Configured per router</td></tr><tr><td>Extraction Engine</td><td>Primary: Pandoc (gfm) Fallback: MarkItDown Legacy: Docling</td><td>Stored in SharePoint</td></tr><tr><td>Output Format</td><td>GitHub Flavoured Markdown (.md)</td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                65,
+                100,
+                957,
+                241
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Important Notes"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                63,
+                296,
+                347,
+                323
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All documents processed by this pipeline are subject to the 3-stage lifecycle: Raw → Draft → Final. No document reaches downstream AI systems until it has been signed off by an authorised verifier."
+                    }
+                ]
+            },
+            "bbox": [
+                157,
+                342,
+                855,
+                441
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Wide Multi-Column Data Table (forces HTML)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                55,
+                483,
+                759,
+                509
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A table with 8+ narrow columns where the header row spans 2 levels also cannot be expressed in GFM — Pandoc will emit HTML."
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                513,
+                937,
+                562
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0579b1633f0ca4cf1a864b53c93d1e7c06e2065dba6914bb8dec60ff25c5d935.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=3 colspan=4>Q1 Metrics</td><td rowspan=1 colspan=4>Q2 Metries</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=2 colspan=4>Apr         May        Jun         TotalQ2</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>135</td><td rowspan=1 colspan=1>142</td><td rowspan=1 colspan=1>397</td><td rowspan=1 colspan=1>150</td><td rowspan=1 colspan=1>160</td><td rowspan=1 colspan=1>175</td><td rowspan=1 colspan=1>485</td></tr><tr><td rowspan=1 colspan=1>200</td><td rowspan=1 colspan=1>210</td><td rowspan=1 colspan=1>195</td><td rowspan=1 colspan=1>605</td><td rowspan=1 colspan=1>220</td><td rowspan=1 colspan=1>230</td><td rowspan=1 colspan=1>215</td><td rowspan=1 colspan=1>665</td></tr><tr><td></td><td rowspan=2 colspan=1>90</td><td rowspan=2 colspan=1>85</td><td rowspan=2 colspan=1>255</td><td rowspan=2 colspan=1>100</td><td rowspan=2 colspan=1>110</td><td rowspan=2 colspan=1>95</td><td rowspan=2 colspan=1>305</td></tr><tr><td rowspan=1 colspan=1>80</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                42,
+                574,
+                939,
+                717
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Word Template for Full Length Paper"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                203,
+                84,
+                773,
+                134
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1st Author 1st author's institute affiliation lephone number E-mail address"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                181,
+                292,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2nd Author 2nd author's institute affiliation lephone number E-mail addres"
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                174,
+                601,
+                241
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3rd author's institute affiliation E-mail"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                159,
+                932,
+                229
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                216,
+                260,
+                304,
+                277
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The abstraer is to be in fully-justified italicized text, at the top of the left-hand column as it is here, below the author information. Use the word \"Abstract\" as the title, in 12-point Times, boldface type. centered relative to the column, initially capitalized. The abstract is to be in 10- point, single-spaced type, and may be up to 3 in. (7.62 cm) long. Leave two blank lines after the abstract, then begin the main text. All manuscripts must be in English."
+                    }
+                ]
+            },
+            "bbox": [
+                45,
+                289,
+                470,
+                409
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "I. Introduction"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                45,
+                418,
+                191,
+                435
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "These guidelines include complete descriptions of the fonts. spacing, and related information for producing your proceedings manuscripts. Please follow them and if you have any questions, direct them to the production editor in charge of your proceedings at the IEEE Computer Society Press: Phone (714) 821-8380 or Fax (714) 761-1784."
+                    }
+                ]
+            },
+            "bbox": [
+                38,
+                445,
+                470,
+                548
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Formatting Your Paper"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                38,
+                560,
+                290,
+                579
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All printed material, including text, illustrations, and charts. must be kept within a print area of 6-7/8 inches (17.5 cm) wide by 8-7/8 inches (22.54 cm) high. Do not write or print anything outside the print area. All text must be in a two-column format. Columns areto be 3- 1/4 inches (8.25 cm) wide, with a 5/16 inch (0.8 cm) space between them."
+                    }
+                ]
+            },
+            "bbox": [
+                33,
+                586,
+                470,
+                692
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Text must be fully justified. A format sheet with the margins and placement guides is available in Word files as <format.doc>. It contains lines and boxes showing the margins and print areas. If you hold it and your printed page up to the light, you can easily check your margins to see if your print area fits within the space allowed."
+                    }
+                ]
+            },
+            "bbox": [
+                30,
+                691,
+                470,
+                786
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Main Title"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                30,
+                796,
+                163,
+                815
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The main title (on the first page) should begin 1-3/8 inches (3.49 em) from the top edge of the page, centered, and in Times 14-point, boldface type. Capitalize the first letter of nouns, pronouns, verbs, adjectives, and adverbs;"
+                    }
+                ]
+            },
+            "bbox": [
+                26,
+                823,
+                468,
+                888
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "do not capitalize articles, coordinate conjunctions, or prepositions (unless the title begins with such a word). Leave two blank lines afte"
+                    }
+                ]
+            },
+            "bbox": [
+                495,
+                247,
+                942,
+                302
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Author Name(s) and Affiliation(s)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                497,
+                309,
+                847,
+                332
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Author names and affiliations are to be centered beneath the title and printed in Times 12-point, nonboldface type. Multiple authors may be shown in a twoor three-column format, with their affiliations below their respective names. Affiliations are centered below each author name, italicized. not bold. Include e-mail addresses if possible. Follow the author information by two blank lines before main text."
+                    }
+                ]
+            },
+            "bbox": [
+                495,
+                337,
+                939,
+                460
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Second and Following Pages"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                497,
+                470,
+                788,
+                489
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The second and following pages should begin 1.0 inch (2.54 cm) from the top edge. On all pages, the bottom margin should be 1-1/8 inches (2.86 em) from the bottom edge of the page for 8.5 x 11-inch paper; for A4 paper, approximately 1-5/8 inches (4.13 cm) from the bottom edge of the page."
+                    }
+                ]
+            },
+            "bbox": [
+                495,
+                496,
+                932,
+                586
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Type-style and Fonts"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                499,
+                596,
+                719,
+                615
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Wherever Times is specified, Times Roman, or New Times Roman may be used. If neither is available on your word processor, please use the font closest in appearance to Times that you have access to. Please avoid using bitmapped fonts if possible. True-Type 1 fonts are preferred."
+                    }
+                ]
+            },
+            "bbox": [
+                495,
+                623,
+                926,
+                716
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Main Text"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                499,
+                726,
+                626,
+                744
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Type your main text in 10-point Times, single-spaced. Do not use double-spacing. All paragraphs should be indented 1pica (approximately 1/6- or 0.17-inch or 0.422 cm). Be sure your text is fully justified—that is. flush left and flush right. Please do not place any additional blank lines between paragraphs. You can use courier for source code."
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                751,
+                922,
+                861
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "7.1. Figure and Table Captions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                31,
+                217,
+                305,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Captions should be 9-point Times New Roman font. boldface. Callouts should be Times NewRoman, nonboldface. Initially capitalize only the first word of each figure caption and table title. Figures and tables must be zumbered separately. For example: \"Figure I. Example figure.\", \"Table I. Table example.\". Figure captions are to be below the figures (see Figure 1). Table titles are to be centered above the tables (see Table 1."
+                    }
+                ]
+            },
+            "bbox": [
+                30,
+                245,
+                465,
+                368
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/872b1040db5aefb0a0c527061aae22b5e2fcafd23001717163a451d6c2b56e6d.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1. Table example."
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>One Two Three</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                90,
+                397,
+                420,
+                418
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "8. First-order Headings"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                35,
+                480,
+                262,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For example, \"1. Introduction\", should be Times 12- point boldface, initially capitalized, flush lefl, with one blank line before, and one blank line after. Use a period (\".\") after the heading mumber, not a col"
+                    }
+                ]
+            },
+            "bbox": [
+                35,
+                505,
+                467,
+                570
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "8.1. Second-order Headings"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                38,
+                579,
+                280,
+                598
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As in this heading. they should be Times 11-point boldface, initially capitalized, flush left, with one blank line before, and one afte"
+                    }
+                ]
+            },
+            "bbox": [
+                38,
+                606,
+                465,
+                655
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8.1.1. Third-order Headings. Third-order headings, as in this paragraph, are discouraged. However, if you must use them, use 10-point Times, boldface, initially capitalized, flush left. preceded by one blank line. followed by a period and your text on the same line."
+                    }
+                ]
+            },
+            "bbox": [
+                38,
+                663,
+                467,
+                743
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "9. Acknowledgements"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                42,
+                750,
+                247,
+                769
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This work was supported in part by a grant from the National Science Foundation"
+                    }
+                ]
+            },
+            "bbox": [
+                42,
+                777,
+                465,
+                809
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "10.References"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                43,
+                819,
+                181,
+                838
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "List and number all bibliographical references in 9. point Times, single-spaced, at the end of your paper: When referenced in the text. enclose the citation number in square brackets, for example [2-4]. [2, 5], and [1]"
+                    }
+                ]
+            },
+            "bbox": [
+                43,
+                846,
+                467,
+                909
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[1] Briand. L. C., Daly, L, and Wost, J, \"A unified framework fow coupling measurement in ohjectoriented systems\", /FEE Tronsactions on Sofware Engineering, 25, 1, Jamuary 1999. pp 91-121"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[2] Matetic, J. L, Collard, M L.. and Marcus, A., \"Soerce Code Files as Structured Documents\", in Proceedings 1oth JEEE International Workshop on Program Comprehension (WPC02), Paris, France, June 27-29 2002, pp. 289-292."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[3] Marcus, A., Semaritie Driven Program Analyois, Kent State University, Kent, OH, USA, Doctoral Thesis, 2003"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[4] Marcus, A. and Maletic, J. L, \"Recorvering Docurnentationto-Source-Code Traceability Links using Latent Semantic Indexing\", in Proceedings 25th IEEE/ACM International Conference on Sofhware Engineering (ICSE'O3), Portland, OR. May 3-10 2003, pp. 125-137"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[5] Salton, G., Automatic Text Processing: The Transformation Analysis and Retrieval of Information by Computer, Addison-Wesley, 1989"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                494,
+                123,
+                915,
+                179
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "This is a 4-Column Test Document"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                236,
+                86,
+                729,
+                110
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This spanning header is placed in the first frame. Then the text flows into the columns."
+                    }
+                ]
+            },
+            "bbox": [
+                42,
+                115,
+                677,
+                133
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Block 1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                42,
+                165,
+                121,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Text block 1:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                    }
+                ]
+            },
+            "bbox": [
+                35,
+                187,
+                225,
+                414
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Block 2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                36,
+                439,
+                114,
+                457
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Text block 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisí ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                463,
+                221,
+                693
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Block 3"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                33,
+                719,
+                112,
+                736
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Text block 3: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                743,
+                221,
+                915
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                272,
+                166,
+                438,
+                224
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Block 4"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                272,
+                248,
+                349,
+                264
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Text block 4: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                    }
+                ]
+            },
+            "bbox": [
+                268,
+                270,
+                458,
+                500
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Block 5"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                270,
+                526,
+                349,
+                541
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Text block 5: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                    }
+                ]
+            },
+            "bbox": [
+                267,
+                547,
+                457,
+                780
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Block 6"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                268,
+                807,
+                346,
+                823
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Text block 6: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                    }
+                ]
+            },
+            "bbox": [
+                267,
+                830,
+                445,
+                916
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                502,
+                167,
+                689,
+                307
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Block 7"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                504,
+                333,
+                583,
+                350
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Text block 7: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                356,
+                690,
+                584
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Block 8"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                504,
+                611,
+                581,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Text block 8: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                634,
+                692,
+                865
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Block 9"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                504,
+                891,
+                581,
+                908
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Text block 9: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                168,
+                921,
+                393
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Block 10"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                737,
+                419,
+                825,
+                435
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Text block 10: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                    }
+                ]
+            },
+            "bbox": [
+                736,
+                441,
+                926,
+                672
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Block 11"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                739,
+                698,
+                826,
+                714
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Text block 11: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Duis aute irure dolor in reprehenderit in"
+                    }
+                ]
+            },
+            "bbox": [
+                736,
+                722,
+                924,
+                907
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                84,
+                509,
+                108
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Block 12"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                125,
+                181,
+                144
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Text block 12: Lorem ipsum dolor sit amet. consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                166,
+                275,
+                395
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "voluptate velit esse cillum dolore eu fugiat nulla pa"
+                    }
+                ]
+            },
+            "bbox": [
+                322,
+                171,
+                492,
+                216
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Block 13"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                78,
+                420,
+                171,
+                438
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Text block 13: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquíp ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                444,
+                270,
+                685
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Block 14"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                70,
+                711,
+                164,
+                729
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Text block 14: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                735,
+                267,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Word Template for Full Length Paper"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                95,
+                270,
+                393,
+                292
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ist Author tet author's institute affiation Telephone number E-mail address"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                308,
+                146,
+                343
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2nd Author 2nd author's instit ite afliation ephone number E-mail address"
+                    }
+                ]
+            },
+            "bbox": [
+                183,
+                312,
+                309,
+                345
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                102,
+                352,
+                149,
+                362
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The shetruct is ar he in fullejustfied ualicioed text af dhe top of she lefi hai erunn as it is here below the shar ahrmatie Use the word \"Ahatact\" as the tile in 12 puint Times. boldface ppe. ccatered relative to the  initially cupmatced Dhe abstraer is to be is 10 t single spaced type snd may he ap to 5 in ( 02 long. Lenve too Mlank ines afier the abstract. then gin she matt test. All mcomserigptr mer he in Erglich"
+                    }
+                ]
+            },
+            "bbox": [
+                10,
+                366,
+                238,
+                431
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "I. Introduction"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                11,
+                435,
+                89,
+                445
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "These guidelmes inciude complete deseriptions of the fones. sqocing. aod related mformation for producing your proceodings manoscripts Please follow them and if yos have any questons, diret tem to the prodoction editar in chage of your prceedings at the E Computer Society Pres: Phone (714) 821-8380 or Fax (714) 761-1784"
+                    }
+                ]
+            },
+            "bbox": [
+                8,
+                450,
+                236,
+                503
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Formatting Your Paper"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                8,
+                509,
+                141,
+                520
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Al peinted materuil. inciuding text, ilhstrations, and charts must be kepe within a print arca of 6-7/8 inches (17.5 ) wide by 8-7/ inches (2254 cm) high Do n write or print anything outside the print area. All text must be in a two-colemn format. Columns are to be 3- 4 mche (8.25 em) wide, with a 5/16 inch (0.8 em) ipoce besween thein."
+                    }
+                ]
+            },
+            "bbox": [
+                6,
+                523,
+                233,
+                578
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Teat mnt be fully justified A format sheet with the margis and placenent guides is available in Woed files as -fomut.adoc>. It contains lines and boxes shoswing the margins and print areas. If you hold à and your peinted poge up to the light. you can cmsily check ymw margins to set if yout primt area fits within the spuce allowed"
+                    }
+                ]
+            },
+            "bbox": [
+                5,
+                577,
+                233,
+                624
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Main Title"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                6,
+                629,
+                75,
+                638
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The mnin title (on the first page) should begin 1-38 inches (.49 em) from the top edge of the page, centered. and in Times 14-point, boldface type. Captalize the first ner of pouns. pronouns, veris, aíjectives, and adverbs;"
+                    }
+                ]
+            },
+            "bbox": [
+                5,
+                643,
+                231,
+                676
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3rd Author"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Grd author's institute: aflliation"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Telephone number"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "E-mail address"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                346,
+                315,
+                467,
+                349
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "do not capitalize articles, coordinate conjonctions, or prepositions (unless the title begits with such a word). Leave two blank lines after the tile"
+                    }
+                ]
+            },
+            "bbox": [
+                252,
+                355,
+                470,
+                380
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Author Name(s) and Affiliation(s)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                252,
+                384,
+                428,
+                395
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Author names and affiliations are to be centered bencath the title and prined in Times 12-point. nonholdface type. Multiple muthors may be shown in a twoor three-column format, with their afliliations below their respective names. Afliliations are centered below each author tame, italicized. not bold. Inchude email middresses if pousible. Fallow the mathor information by two blank lines before main text."
+                    }
+                ]
+            },
+            "bbox": [
+                250,
+                397,
+                470,
+                459
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Second and Following Pages"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                250,
+                464,
+                401,
+                475
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The seoond and following pages should begin 1.0 inch (2.54 cm) from the top edge. On all pages. the bottom margin should be 1-1/8 inches (2.80 cm) from the bottenm edge of the page for 8.5 x 11-inch paper: for A4 paper. approximately 1-5/8 inches (4.13 cm) from the bonom edge of the page."
+                    }
+                ]
+            },
+            "bbox": [
+                247,
+                478,
+                470,
+                524
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Type-style and Fonts"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                248,
+                529,
+                366,
+                540
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Wherever Times is specified. Times Romant, or New Tunes Roman may be used. If neither is available on your word processor, plerse use thie font closest in appearance to Times thuat you have access to. Please avoid using bitmapped fonts if possible. True-Type 1 fonts are preferred."
+                    }
+                ]
+            },
+            "bbox": [
+                247,
+                542,
+                470,
+                591
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Main Text"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                247,
+                596,
+                314,
+                605
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Type your main text in 10-point Times, singlespaced. De not ase doubie-spacing. All paragraphs should be indented 1 pica (approximately 1/6- or 0.17-inch or 0.422 cm). Be sure your text is fully justified-that is, flush left and flush right. Please do not place any additional blank lines berween paragraphs. You can use courier for source code."
+                    }
+                ]
+            },
+            "bbox": [
+                245,
+                609,
+                468,
+                665
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/df1caa47142d0aadecb90ed3987ac7aa8a4096c2d066dc03910c8faaee5d81e1.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                532,
+                285,
+                752,
+                334
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "7.1. Figure and Table Captions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                534,
+                339,
+                675,
+                349
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Captions should be 9-point Times New Roman font. boldface. Callouts should be Times New Roman, nonbolidface. Initially capitalize only the first word of each figure caption and table title. Figures and tables must be mumbered wyarately. For example: \"Figure I. Example figure.\", \"Table 1. Table example.\". Figure captions are to be below the figunes (see Figure 11. Table titles are to be centered above the tables (see Table 1."
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                352,
+                757,
+                415
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Table 1. Table example."
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                593,
+                420,
+                692,
+                428
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "One Two Three"
+                    }
+                ]
+            },
+            "bbox": [
+                564,
+                429,
+                732,
+                439
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "8. First-order Headings"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                534,
+                471,
+                650,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For example. -1. Introduction\". should be Times 12- point boldface, initially capitalized, flush left. with one blank line betore, and one blank line afier. Use a period (\"\") after the heading number, not a colon."
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                484,
+                756,
+                516
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "8.1. Second-order Headings"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                534,
+                521,
+                658,
+                530
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As in this heading. they should be Times 11-point boldface, initiatly capitalized, flush left, with one blank line before, and one after."
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                535,
+                756,
+                559
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8.1.1. Third-order Headings. Thind-order headings. as in this parngraph, are discouraged. However, if you must ue them. ue 10-point Times. holdface, iitially capitalized. flush lett, preceded by one blank line, followed hy a period and your text on the same line."
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                564,
+                756,
+                604
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "9. Acknowledgements"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                534,
+                609,
+                642,
+                618
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This work was supported in part by a geant from the Natioral Science Foundation"
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                623,
+                756,
+                638
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "10. References"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                536,
+                644,
+                608,
+                654
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "List and mumber all bibliographical references in 9. point Times, single-spaced. at the end of your paper. When referenced in the text, enclose the citation number in square brackets, for example [2–4]. [2. 5], und [1] [] Briand. L. C_ Daly. J., and Wost, J_\"A unified frameswork for coupling mcasurement in objectoriested system\", zEz'a Yruruoctions on Sofhsae Engineering. 25, 1. Jamuary 1999, pp 91-121"
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                657,
+                756,
+                691
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                771,
+                286,
+                993,
+                317
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "[2] Maletic, 1. L, Colland. M. L... and Marcun, A. \"Souror Code Files as Straetuted Documens\", in Proceedings füth lEEE Interruational Workshop on Program Compeehertion r/WPC02). Piris, France. June 27-29 200z. pp. 289-292"
+                    }
+                ]
+            },
+            "bbox": [
+                771,
+                318,
+                993,
+                347
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "[3] Marcus, A.Semuntic Driven Progrom Amalysis, Kent State University, Kent, OH, USA, Doctoral Thesis, 2003"
+                    }
+                ]
+            },
+            "bbox": [
+                771,
+                349,
+                991,
+                365
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "[4] Marcus, A. and Maletic, J. I. \"Recoverimg Documemtationto-Source-Code Tacenhility Links uning Latent Semantie Indexing\". in Pruceedings 25th 1EEE ACM Internatinmal Cerderence on Sufiware Ergineering (ICSEOD), Portland, CR. May 3-10 2003. pp. 125-137."
+                    }
+                ]
+            },
+            "bbox": [
+                771,
+                366,
+                991,
+                403
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "[5] Salton. G.. Autiomatie Teat Prcessing The Trarsformatior. Anolysts and Retrieval of Information by Computer. Addison-Wenley, 1989"
+                    }
+                ]
+            },
+            "bbox": [
+                771,
+                406,
+                991,
+                428
+            ]
+        }
+    ]
+]
