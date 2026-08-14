@@ -12,6 +12,6 @@ venv/
 env/
 
 # Ignore test PDF files and generated output
-*.pdf
+
 step1-layout-detection/pipeline_output/
 step1-layout-detection/media/
